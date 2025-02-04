@@ -15,11 +15,28 @@ Text Domain:	 chicdressing
 */
 
 
+@import url('https://fonts.googleapis.com/css2?family=Kalman:wght@400;700&family=Open+Sans:wght@300;400;600;700&family=Rokkitt:wght@400;700&family=Playfair+Display:wght@400;700&display=swap');
+
+
+
+
 body .page-content, .page-content select, .page-content input, .page-content textarea, .page-content .post-author a, .page-content .ashe-widget a, .page-content .comment-author {
     color: #a5a5a5;
     font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
 }
 
+.post-content, .post-date {
+    font-size: 14px;
+    color: #333333;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*
+h1, h2 {
+    font-family: 'Kalam', cursive;
+}
+*/
 
 body .header-logo a{
     color: white;

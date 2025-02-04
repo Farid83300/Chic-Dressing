@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Elementor Website Builder &#8211; More Than Just a Page Builder - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-01-22 15:09:02+0000\n"
+"PO-Revision-Date: 2025-01-26 11:23:19+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -33,7 +33,7 @@ msgstr "Approuver et connecter"
 msgid "Connect to Site Planner"
 msgstr "Se connecter au planificateur de site"
 
-#: modules/ai/module.php:213 modules/ai/module.php:248
+#: modules/ai/module.php:221 modules/ai/module.php:256
 msgid "Animate With AI"
 msgstr "Animer avec l’IA"
 
@@ -69,19 +69,19 @@ msgstr "Espacement des lignes"
 msgid "Column Span"
 msgstr "Espacement des colonnes"
 
-#: modules/ai/module.php:1406
+#: modules/ai/module.php:1414
 msgid "Missing prompt settings"
 msgstr "Réglages de prompt manquants"
 
-#: modules/ai/module.php:1402
+#: modules/ai/module.php:1410
 msgid "Missing Image"
 msgstr "Image manquante"
 
-#: modules/ai/module.php:407
+#: modules/ai/module.php:415
 msgid "Image added successfully"
 msgstr "Image bien ajoutée"
 
-#: modules/ai/module.php:311 assets/js/ai-unify-product-images.js:17956
+#: modules/ai/module.php:319 assets/js/ai-unify-product-images.js:17956
 msgid "Unify with Elementor AI"
 msgstr "Unifier avec l’IA d’Elementor"
 
@@ -161,7 +161,7 @@ msgstr "Activez les classes CSS globales."
 msgid "Global Classes"
 msgstr "Classes globales"
 
-#: modules/ai/module.php:1410
+#: modules/ai/module.php:1418
 msgid "not_connected"
 msgstr "not_connected"
 
@@ -4666,10 +4666,6 @@ msgstr "Choisir un fichier"
 msgid "Read More Text"
 msgstr "Texte « Lire la suite »"
 
-#: includes/widgets/read-more.php:41 includes/widgets/read-more.php:92
-msgid "Read More"
-msgstr "Lire plus"
-
 #: modules/promotions/admin-menu-items/popups-promotion-item.php:18
 msgid "Get Popup Builder"
 msgstr "Obtenir le constructeur de fenêtre surgissante"
@@ -4691,6 +4687,10 @@ msgstr "Fenêtres surgissantes"
 #: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:7
 msgid "Theme Builder"
 msgstr "Constructeur de thème"
+
+#: includes/widgets/read-more.php:41 includes/widgets/read-more.php:92
+msgid "Read More"
+msgstr "Lire la suite"
 
 #: modules/library/documents/not-supported.php:57
 msgid "Not Supported"

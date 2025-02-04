@@ -10,4 +10,10 @@ add_filter( 'big_image_size_threshold', '__return_false' );
 
 
 
- 
+function chicdressing_dequeue_google_fonts() {
+    wp_dequeue_style('ashe-opensans');
+    wp_deregister_style('ashe-opensans');
+    wp_dequeue_style('ashe-kalam');
+    wp_deregister_style('ashe-kalam');
+}
+add_action('wp_enqueue_scripts', 'chicdressing_dequeue_google_fonts', 20);

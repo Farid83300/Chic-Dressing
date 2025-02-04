@@ -65,7 +65,7 @@ $slider_data .= '}';
 
 	<div class="slider-item">
 
-		<div class="slider-item-bg" style="background-image:url( <?php echo wp_get_attachment_image_src( $repeater_item->image_url, 'full' )[0]; ?>);"></div>
+		<div class="slider-item-bg" style="background-image:url( <?php echo wp_get_attachment_image_src( $repeater_item->image_url, 'medium' )[0]; ?>);"></div>
 
 		<div class="cv-container image-overlay">
 			<div class="cv-outer">
@@ -84,11 +84,11 @@ $slider_data .= '}';
 
 						<?php if( $repeater_item->title !== '' ) : ?>
 							<?php if ( $repeater_item->link !== '' ) : ?>
-								<h2 class="slider-title">
+								<h3 class="slider-title">
 									<a href="<?php echo esc_url( $repeater_item->link ); ?>"><?php echo $repeater_item->title; ?></a>	
-								</h2>
+								</h3>
 							<?php else: ?>
-								<h2 class="slider-title"><?php echo $repeater_item->title; ?></h2>
+								<h3 class="slider-title"><?php echo $repeater_item->title; ?></h3>
 							<?php endif; ?>
 						<?php endif; ?>
 
