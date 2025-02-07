@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-01-27 04:52:17+0000\n"
+"PO-Revision-Date: 2025-02-06 15:08:26+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -676,89 +676,89 @@ msgstr "Limitez le jeu de résultats aux produits avec n’importe quel état."
 msgid "Let your shoppers pay upon delivery — by cash or other methods of payment."
 msgstr "Offrez à vos acheteurs la possibilité de payer à la livraison – en espèces ou par d’autres moyens de paiement."
 
-#: includes/admin/settings/class-wc-settings-emails.php:782
+#: includes/admin/settings/class-wc-settings-emails.php:781
 msgid "Custom fonts"
 msgstr "Polices personnalisées"
 
-#: includes/admin/settings/class-wc-settings-emails.php:768
+#: includes/admin/settings/class-wc-settings-emails.php:767
 msgid "Standard fonts"
 msgstr "Polices standard"
 
-#: includes/admin/settings/class-wc-settings-emails.php:668
+#: includes/admin/settings/class-wc-settings-emails.php:667
 msgid "Preview your email template. You can also test on different devices and send yourself a test email."
 msgstr "Prévisualisez votre modèle d’e-mail. Vous pouvez également tester sur différents appareils et vous envoyer un e-mail test."
 
-#: includes/admin/settings/class-wc-settings-emails.php:666
+#: includes/admin/settings/class-wc-settings-emails.php:665
 msgid "Email preview"
 msgstr "Aperçu de l’e-mail"
 
-#: includes/admin/settings/class-wc-settings-emails.php:308
+#: includes/admin/settings/class-wc-settings-emails.php:307
 msgid "Set the name and email address you'd like your outgoing emails to use."
 msgstr "Définissez le nom et l’adresse e-mail que vous souhaitez utiliser pour vos e-mails sortants."
 
-#: includes/admin/settings/class-wc-settings-emails.php:201
+#: includes/admin/settings/class-wc-settings-emails.php:200
 msgid "Color palette"
 msgstr "Palette de couleurs"
 
 #. translators: %s: footer default color
-#: includes/admin/settings/class-wc-settings-emails.php:198
+#: includes/admin/settings/class-wc-settings-emails.php:197
 msgid "Choose a color for your secondary text, such as your footer content. Default %s."
 msgstr "Choisissez une couleur pour votre texte secondaire, comme le contenu de votre pied de page. Par défaut : %s."
 
-#: includes/admin/settings/class-wc-settings-emails.php:196
+#: includes/admin/settings/class-wc-settings-emails.php:195
 msgid "Secondary text"
 msgstr "Texte secondaire"
 
 #. translators: %s: default color
-#: includes/admin/settings/class-wc-settings-emails.php:194
+#: includes/admin/settings/class-wc-settings-emails.php:193
 msgid "Set the color of your headings and text. Default %s."
 msgstr "Définissez la couleur de vos titres et de votre texte. Par défaut : %s."
 
-#: includes/admin/settings/class-wc-settings-emails.php:192
+#: includes/admin/settings/class-wc-settings-emails.php:191
 msgid "Heading & text"
 msgstr "Titres et texte"
 
 #. translators: %s: default color
-#: includes/admin/settings/class-wc-settings-emails.php:190
+#: includes/admin/settings/class-wc-settings-emails.php:189
 msgid "Choose a background color for the content area of your emails. Default %s."
 msgstr "Choisissez une couleur d’arrière-plan pour la zone de contenu de vos e-mails. Par défaut : %s."
 
-#: includes/admin/settings/class-wc-settings-emails.php:188
+#: includes/admin/settings/class-wc-settings-emails.php:187
 msgid "Content background"
 msgstr "Arrière-plan du contenu"
 
 #. translators: %s: default color
-#: includes/admin/settings/class-wc-settings-emails.php:186
+#: includes/admin/settings/class-wc-settings-emails.php:185
 msgid "Select a color for the background of your emails. Default %s."
 msgstr "Sélectionnez une couleur d’arrière-plan pour vos e-mails. Par défaut : %s."
 
-#: includes/admin/settings/class-wc-settings-emails.php:184
+#: includes/admin/settings/class-wc-settings-emails.php:183
 msgid "Email background"
 msgstr "Arrière-plan d’e-mail"
 
 #. translators: %s: default color
-#: includes/admin/settings/class-wc-settings-emails.php:182
+#: includes/admin/settings/class-wc-settings-emails.php:181
 msgid "Customize the color of your buttons and links. Default %s."
 msgstr "Personnalisez la couleur de vos boutons et liens. Par défaut : %s."
 
 #. translators: %s: Available placeholders for use
-#: includes/admin/settings/class-wc-settings-emails.php:177
+#: includes/admin/settings/class-wc-settings-emails.php:176
 msgid "This text will appear in the footer of all of your WooCommerce emails."
 msgstr "Ce texte apparaîtra dans le pied de page de tous vos e-mails WooCommerce."
 
-#: includes/admin/settings/class-wc-settings-emails.php:170
+#: includes/admin/settings/class-wc-settings-emails.php:169
 msgid "Font family"
 msgstr "Famille de polices"
 
-#: includes/admin/settings/class-wc-settings-emails.php:156
+#: includes/admin/settings/class-wc-settings-emails.php:155
 msgid "Header alignment"
 msgstr "Alignement de l’en-tête"
 
-#: includes/admin/settings/class-wc-settings-emails.php:146
+#: includes/admin/settings/class-wc-settings-emails.php:145
 msgid "Add your logo to each of your WooCommerce emails. If no logo is uploaded, your site title will be used instead."
 msgstr "Ajoutez votre logo à chacun de vos e-mails WooCommerce. Si aucun logo n’est chargé, le titre du site sera utilisé à la place."
 
-#: includes/admin/settings/class-wc-settings-emails.php:143
+#: includes/admin/settings/class-wc-settings-emails.php:142
 msgid "Customize your WooCommerce email template and preview it below."
 msgstr "Personnalisez votre modèle d’e-mail WooCommerce et prévisualisez-le ci-dessous."
 
@@ -1086,16 +1086,16 @@ msgstr "Valeur du coût défini."
 msgid "Cost of Goods Sold values for the product."
 msgstr "Valeurs du Coût des marchandises vendues pour le produit."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:577
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:574
 msgid "Grow your business with Facebook and Instagram"
 msgstr "Développer votre activité avec Facebook et Instagram"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:188
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:579
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:185
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:576
 msgid "Sync your store catalog, set up pixel tracking, and run targeted ad campaigns."
 msgstr "Synchronisez le catalogue de votre boutique, configurez le pixel de suivi et lancez des campagnes publicitaires ciblées."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:187
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:184
 msgid "Meta Ads & Pixel for WooCommerce"
 msgstr "Meta Ads & Pixel pour WooCommerce"
 
@@ -1750,11 +1750,11 @@ msgid "Invalid file type for a CSV import."
 msgstr "Type de fichier non valide pour une importation CSV."
 
 #. translators: %s: footer default color
-#: includes/admin/settings/class-wc-settings-emails.php:137
+#: includes/admin/settings/class-wc-settings-emails.php:136
 msgid "The footer text color. Default %s."
 msgstr "Couleur du texte de pied de page. %s par défaut."
 
-#: includes/admin/settings/class-wc-settings-emails.php:135
+#: includes/admin/settings/class-wc-settings-emails.php:134
 msgid "Footer text color"
 msgstr "Couleur du texte de pied de page"
 
@@ -1875,18 +1875,18 @@ msgstr "Activer cette fonctionnalité pour enregistrer les erreurs et données c
 msgid "Remote Logging"
 msgstr "Connexion à distance"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:598
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:595
 msgid "Drive sales with Google for WooCommerce"
 msgstr "Générer des ventes grâce à Google pour WooCommerce"
 
 #. translators: 1: opening product link tag. 2: closing link tag
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:112
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:109
 msgid "Drive sales with %1$sGoogle for WooCommerce%2$s"
 msgstr "Générer des ventes grâce à %1$sGoogle pour WooCommerce%2$s"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:109
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:132
-#: assets/client/admin/chunks/9001.js:1 assets/client/admin/data/index.js:2
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:106
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:129
+#: assets/client/admin/chunks/2791.js:1 assets/client/admin/data/index.js:2
 msgid "Google for WooCommerce"
 msgstr "Google pour WooCommerce"
 
@@ -2707,7 +2707,7 @@ msgstr "GTIN, UPC, EAN ou ISBN non valide ou dupliqué."
 msgid "Enable guest checkout (recommended)"
 msgstr "Autoriser la validation de la commande en tant qu’invité (recommandé)"
 
-#: includes/admin/class-wc-admin-assets.php:230
+#: includes/admin/class-wc-admin-assets.php:224
 #: src/Internal/Features/ProductBlockEditor/ProductTemplates/ProductVariationTemplate.php:347
 #: src/Internal/Features/ProductBlockEditor/ProductTemplates/SimpleProductTemplate.php:779
 msgid "Please enter only numbers and hyphens (-)."
@@ -3641,18 +3641,18 @@ msgstr "La validation de la commande peut être personnalisée <a href=\"%s\">da
 #. settings in current site, 3 = URL of webhooks settings in current site, 4 =
 #. URL of logs page in current site, 5 = URL of blog post about the Legacy REST
 #. API removal
-#: includes/class-wc-install.php:1375
+#: includes/class-wc-install.php:1378
 msgid "⚠️ WooCommerce attempted to install <a href=\"%1$s\">the Legacy REST API plugin</a> because this site has <a href=\"%2$s\">the Legacy REST API enabled</a> or has <a href=\"%3$s\">legacy webhooks defined</a>, but the installation failed (see error details in <a href=\"%4$s\">the WooCommerce logs</a>). Please install and activate the plugin manually. <a href=\"%5$s\">More information</a>"
 msgstr "⚠️ WooCommerce a tenté d’installer <a href=\"%1$s\">l’extension de l’ancienne API REST</a> parce que <a href=\"%2$s\">l’ancienne API REST est activée</a> sur ce site ou que <a href=\"%3$s\">les anciens crochets web sont définis</a>, mais l’installation a échoué (voir les détails de l’erreur dans <a href=\"%4$s\">les journaux WooCommerce</a>). Veuillez installer et activer l’extension manuellement. <a href=\"%5$s\">Plus d’informations</a>"
 
 #. translators: 1 = URL of Legacy REST API plugin page, 2 = URL of Legacy API
 #. settings in current site, 3 = URL of webhooks settings in current site, 4 =
 #. URL of blog post about the Legacy REST API removal
-#: includes/class-wc-install.php:1361
+#: includes/class-wc-install.php:1364
 msgid "ℹ️ WooCommerce installed and activated <a href=\"%1$s\">the Legacy REST API plugin</a> because this site has <a href=\"%2$s\">the Legacy REST API enabled</a> or has <a href=\"%3$s\">legacy webhooks defined</a>. <a href=\"%4$s\">More information</a>"
 msgstr "ℹ️ WooCommerce a installé et activé <a href=\"%1$s\">l’extension de l’ancienne API REST</a> parce que <a href=\"%2$s\">l’ancienne API REST est activée</a> sur ce site ou que <a href=\"%3$s\">les anciens webhooks sont définis</a>. <a href=\"%4$s\">Plus d’informations</a>"
 
-#: includes/class-wc-install.php:1352
+#: includes/class-wc-install.php:1355
 msgid "WooCommerce installed the Legacy REST API plugin but failed to activate it, see context for more details."
 msgstr "WooCommerce a installé l’extension de l’ancienne API REST, mais n’a pas réussi à l’activer, consultez le contexte pour plus de détails."
 
@@ -3660,7 +3660,7 @@ msgstr "WooCommerce a installé l’extension de l’ancienne API REST, mais n�
 #. settings in current site, 3 = URL of webhooks settings in current site, 4 =
 #. URL of logs page in current site, 5 = URL of plugins page in current site, 6
 #. = URL of blog post about the Legacy REST API removal
-#: includes/class-wc-install.php:1342
+#: includes/class-wc-install.php:1345
 msgid "⚠️ WooCommerce installed <a href=\"%1$s\">the Legacy REST API plugin</a> because this site has <a href=\"%2$s\">the Legacy REST API enabled</a> or has <a href=\"%3$s\">legacy webhooks defined</a>, but it failed to activate it (see error details in <a href=\"%4$s\">the WooCommerce logs</a>). Please go to <a href=\"%5$s\">the plugins page</a> and activate it manually. <a href=\"%6$s\">More information</a>"
 msgstr "⚠️ WooCommerce a installé <a href=\"%1$s\">l’extension de l’ancienne API REST</a> parce que <a href=\"%2$s\">l’ancienne API REST est activée</a> sur ce site ou que <a href=\"%3$s\">les anciens crochets web sont définis</a>, mais n’a pas réussi à l’activer (voir les détails de l’erreur dans <a href=\"%4$s\">les journaux WooCommerce</a>). Veuillez accéder à <a href=\"%5$s\">la page des extensions</a> et l’activer manuellement. <a href=\"%6$s\">Plus d’informations</a>"
 
@@ -5048,10 +5048,6 @@ msgstr "La commande n’est pas une commande HPOS."
 msgid "%d is not a valid order ID."
 msgstr "%d n’est pas un ID de commande valide."
 
-#: src/Internal/Admin/Orders/MetaBoxes/OrderAttribution.php:46
-msgid "Desktop"
-msgstr "Application de bureau"
-
 #: src/Internal/Admin/Orders/MetaBoxes/OrderAttribution.php:43
 msgid "Tablet"
 msgstr "Tablette"
@@ -5134,6 +5130,10 @@ msgstr[1] "Nettoyage terminé pour %d commandes."
 #: src/Database/Migrations/CustomOrderTable/CLIRunner.php:986
 msgid "An error occurred while cleaning up order %1$d: %2$s"
 msgstr "Une erreur est survenue lors du nettoyage de la commande %1$d : %2$s"
+
+#: src/Internal/Admin/Orders/MetaBoxes/OrderAttribution.php:46
+msgid "Desktop"
+msgstr "Ordinateur"
 
 #. translators: %d is an order ID.
 #: src/Database/Migrations/CustomOrderTable/CLIRunner.php:983
@@ -6113,12 +6113,12 @@ msgstr "Page sur laquelle les acheteurs examinent leur panier d’achats"
 msgid "Legacy"
 msgstr "Ancien"
 
-#: includes/admin/class-wc-admin-notices.php:172
+#: includes/admin/class-wc-admin-notices.php:171
 msgid "WooCommerce webhooks that use the Legacy REST API are unsupported"
 msgstr "Les webhooks WooCommerce qui utilisent l’ancienne API REST ne sont plus pris en charge"
 
 #. translators: Placeholders are URLs.
-#: includes/admin/class-wc-admin-notices.php:176
+#: includes/admin/class-wc-admin-notices.php:175
 msgid "⚠️ The WooCommerce Legacy REST API has been removed from WooCommerce, this will cause <a href=\"%1$s\">webhooks on this site that are configured to use the Legacy REST API</a> to stop working. <a target=\"_blank\" href=\"%2$s\">A separate WooCommerce extension is available</a> to allow these webhooks to keep using the Legacy REST API without interruption. You can also edit these webhooks to use the current REST API version to generate the payload instead. <b><a target=\"_blank\" href=\"%3$s\">Learn more about this change.</a></b>"
 msgstr "L’ancienne API REST WooCommerce a été supprimée dans WooCommerce 9.0 et les <a href=\"%1$s\">crochets web de ce site configurés pour utiliser cette dernière</a> cesseront de fonctionner. <a target=\"_blank\" href=\"%2$s\">Une extension WooCommerce distincte est disponible</a> pour que ces crochets web puissent continuer à utiliser l’ancienne API REST sans interruption. Vous pouvez également modifier ces crochets web pour utiliser l’actuelle version de l’API REST pour générer la charge. <b><a target=\"_blank\" href=\"%3$s\">En savoir plus sur cette modification.</a></b>"
 
@@ -6166,7 +6166,7 @@ msgctxt "block description"
 msgid "Display next and previous buttons."
 msgstr "Affiche les boutons suivant et précédent."
 
-#: includes/admin/settings/class-wc-settings-emails.php:145
+#: includes/admin/settings/class-wc-settings-emails.php:144
 #: assets/client/admin/chunks/customize-store.js:1
 msgid "Logo"
 msgstr "Logo"
@@ -6343,7 +6343,7 @@ msgid "Select values"
 msgstr "Sélectionner des valeurs"
 
 #. translators: %s: WC_DELIMITER
-#: includes/admin/class-wc-admin-assets.php:450
+#: includes/admin/class-wc-admin-assets.php:444
 msgid "Enter some descriptive text. Use “%s” to separate different values."
 msgstr "Saisissez un texte descriptif. Utilisez « %s » pour séparer les différentes valeurs."
 
@@ -6498,11 +6498,11 @@ msgctxt "block title"
 msgid "Product variations items"
 msgstr "Variations du produit (articles)"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:564
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:561
 msgid "Save time on content creation — unlock high-quality blog posts and pages using AI."
 msgstr "Gagnez du temps sur la création de contenu : accédez à des articles de blog et des pages de haute qualité grâce à l’IA."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:562
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:559
 msgid "Boost content creation with Jetpack AI Assistant"
 msgstr "Stimuler la création de contenu avec l’assistant d’IA de Jetpack"
 
@@ -6771,12 +6771,12 @@ msgid "Currently syncing orders... %s pending"
 msgstr "Synchronisation des commandes en cours… %s en attente"
 
 #: src/Admin/Features/OnboardingTasks/Tasks/WooCommercePayments.php:38
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:547
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:544
 msgid "Get paid with WooPayments"
 msgstr "Se faire payer avec WooPayments"
 
 #: src/Admin/Features/MarketingRecommendations/DefaultMarketingRecommendations.php:162
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:210
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:207
 msgid "Grow and retain customers with intelligent, impactful email and SMS marketing automation and a consolidated view of customer interactions."
 msgstr "Augmentez et fidélisez vos clients grâce à une automatisation intelligente et efficace du marketing par e-mail et par SMS et à une vision unifiée des interactions avec les clients."
 
@@ -6788,7 +6788,7 @@ msgstr "Faire de grosses économies avec WooPayments"
 msgid "Payments made simple with WooPayments"
 msgstr "Paiements simplifiés avec WooPayments"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:209
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:206
 #: assets/client/admin/chunks/multichannel-marketing.js:1
 #: assets/client/admin/wp-admin-scripts/marketing-coupons.js:2
 msgid "Klaviyo"
@@ -6896,7 +6896,7 @@ msgctxt "block title"
 msgid "Product Rating"
 msgstr "Note du produit"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:607
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:604
 msgid "Automatically calculate how much sales tax should be collected – by city, country, or state."
 msgstr "Calculez automatiquement le montant de la taxe de vente à percevoir : par ville, pays ou État/région."
 
@@ -6908,55 +6908,55 @@ msgstr "Taxonomie non valide : %s."
 #: src/Admin/Features/PaymentGatewaySuggestions/DefaultPaymentGateways.php:783
 #: src/Admin/Features/PaymentGatewaySuggestions/DefaultPaymentGateways.php:825
 #: src/Admin/Features/PaymentGatewaySuggestions/DefaultPaymentGateways.php:860
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:216
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:213
 #: src/Internal/Admin/WCPayPromotion/DefaultPromotions.php:28
 #: src/Internal/Admin/WCPayPromotion/DefaultPromotions.php:40
-#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/2791.js:1
 #: assets/client/admin/data/index.js:2
 msgid "WooPayments"
 msgstr "WooPayments"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:605
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:602
 msgid "Get automated tax rates with WooCommerce Tax"
 msgstr "Automatisez l’application des taux de taxe avec WooCommerce Tax"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:600
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:597
 msgid "Reach millions of active shoppers across Google with free product listings and ads."
 msgstr "Touchez des millions d’acheteurs actifs sur Google grâce à des listes de produits et des annonces gratuites."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:591
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:588
 msgid "Create ad campaigns with TikTok"
 msgstr "Créez des campagnes publicitaires avec TikTok"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:586
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:583
 msgid "Send purchase follow-up emails, newsletters, and promotional campaigns."
 msgstr "Envoyez des e-mails de suivi d’achat, des newsletters et des campagnes promotionnelles."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:584
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:581
 msgid "Reach your customers with MailPoet"
 msgstr "Touchez vos clients avec MailPoet"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:570
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:567
 msgid "Showcase your products with Pinterest"
 msgstr "Mettez vos produits en valeur sur Pinterest"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:593
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:590
 msgid "Create advertising campaigns and reach one billion global users."
 msgstr "Créez des campagnes publicitaires et touchez un milliard d’utilisateurs dans le monde."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:572
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:569
 msgid "Get your products in front of a highly engaged audience."
 msgstr "Mettez vos produits en avant auprès d’un public très engagé."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:557
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:554
 msgid "Print USPS and DHL labels directly from your dashboard and save on shipping."
 msgstr "Imprimez des étiquettes USPS et DHL directement depuis votre tableau de bord et réalisez ainsi des économies sur les frais d’expédition."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:555
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:552
 msgid "Print shipping labels with WooCommerce Shipping"
 msgstr "Imprimez des étiquettes de livraison avec WooCommerce Shipping"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:549
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:546
 msgid "Securely accept payments and manage payment activity straight from your store's dashboard"
 msgstr "Acceptez les paiements en toute sécurité et gérez les activités de paiement directement depuis le tableau de bord de votre boutique."
 
@@ -7412,7 +7412,7 @@ msgstr[1] "(%s avis clients)"
 msgid "Log out"
 msgstr "Se déconnecter"
 
-#: includes/admin/class-wc-admin-assets.php:448
+#: includes/admin/class-wc-admin-assets.php:442
 msgid "Adding new attribute failed."
 msgstr "Échec de l’ajout du nouvel attribut."
 
@@ -7453,7 +7453,7 @@ msgid_plural "%s variations imported"
 msgstr[0] "%s variation importée"
 msgstr[1] "%s variations importées"
 
-#: includes/admin/class-wc-admin-assets.php:313
+#: includes/admin/class-wc-admin-assets.php:307
 msgid "%qty% variations added"
 msgstr "%qty% variations ajoutées"
 
@@ -8067,12 +8067,12 @@ msgstr "Ajouter existant"
 msgid "Create value"
 msgstr "Créer une valeur"
 
-#: includes/admin/class-wc-admin-assets.php:436
+#: includes/admin/class-wc-admin-assets.php:430
 #: includes/admin/meta-boxes/views/html-product-attribute.php:11
 msgid "New attribute"
 msgstr "Nouvel attribut"
 
-#: includes/admin/class-wc-admin-assets.php:447
+#: includes/admin/class-wc-admin-assets.php:441
 msgid "If you remove this attribute, customers will no longer be able to purchase some variations of this product."
 msgstr "Si vous retirez cet attribut, les clients ne pourront plus acheter certaines variations de ce produit."
 
@@ -8190,7 +8190,7 @@ msgstr "Suivre la quantité en stock pour ce produit"
 msgid "Stock management"
 msgstr "Gestion des stocks"
 
-#: includes/admin/class-wc-admin-assets.php:451
+#: includes/admin/class-wc-admin-assets.php:445
 msgid "Enter options for customers to choose from, f.e. “Blue” or “Large”. Use “%s” to separate different options."
 msgstr "Saisissez les options parmi lesquelles les clients peuvent choisir, par ex. « Bleu » ou « Grand ». Utilisez « %s » pour séparer les différentes options."
 
@@ -8202,7 +8202,7 @@ msgstr "Détection automatique"
 msgid "Character encoding of the file"
 msgstr "Encodage des caractères du fichier"
 
-#: includes/admin/class-wc-admin-assets.php:444
+#: includes/admin/class-wc-admin-assets.php:438
 msgid "Make sure you enter the name and values for each attribute."
 msgstr "Assurez-vous de saisir le nom et les valeurs de chaque attribut."
 
@@ -8309,11 +8309,11 @@ msgstr "Solution facile et puissante"
 msgid "You are missing required arguments of WooCommerce ProductForm Tab: %1$s"
 msgstr "Vous manquez des arguments obligatoires de l’onglet « ProductForm » : %1$s"
 
-#: src/Internal/Admin/Settings.php:338
+#: src/Internal/Admin/Settings.php:335
 msgid "Date Type"
 msgstr "Type de donnée"
 
-#: src/Internal/Admin/Settings.php:339 assets/client/admin/app/index.js:2
+#: src/Internal/Admin/Settings.php:336 assets/client/admin/app/index.js:2
 msgid "Database date field considered for Revenue and Orders reports"
 msgstr "Champ de date en base de données considéré pour les rapports de revenu et de commandes"
 
@@ -8750,7 +8750,7 @@ msgstr "Merci pour votre commande. Elle restera en attente jusqu’à ce que nou
 msgid "This will delete the custom orders tables. To create them again enable the \"High-Performance order storage\" feature (via Settings > Advanced > Features)."
 msgstr "Cela supprimera les tables de commandes personnalisées. Pour les créer à nouveau, activez la fonction « Stockage haute performance des commandes » (via Réglages > Avancés > Fonctionnalités)."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:156
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:153
 msgid "Get your products in front of Pinners searching for ideas and things to buy."
 msgstr "Présentez vos produits aux utilisateurs de Pinterest à la recherche d’idées et de choses à acheter."
 
@@ -8866,7 +8866,7 @@ msgid "Product updated. %1$sView Product%2$s"
 msgstr "Produit mis à jour. %1$sAfficher le produit%2$s"
 
 #. translators: %1$s: maximum file size
-#: includes/admin/class-wc-admin-assets.php:446
+#: includes/admin/class-wc-admin-assets.php:440
 msgid "For best results, upload JPEG or PNG files that are 1000 by 1000 pixels or larger. Maximum upload file size: %1$s."
 msgstr "Pour de meilleurs résultats, téléchargez des fichiers JPEG ou PNG de 1000x1000 pixels ou plus. Taille de fichier maximale pour le chargement : %1$s"
 
@@ -9154,7 +9154,7 @@ msgstr "Filtrer par contrôle d’attribut"
 msgid "Filter by rating"
 msgstr "Filtrer par évaluation"
 
-#: includes/class-wc-install.php:2723 src/Blocks/BlockTypes/Cart.php:69
+#: includes/class-wc-install.php:2726 src/Blocks/BlockTypes/Cart.php:69
 #: assets/client/blocks/cart.js:12 assets/client/blocks/product-collection.js:1
 msgid "You may be interested in…"
 msgstr "Ça peut vous intéresser..."
@@ -9228,7 +9228,7 @@ msgid "Missing table info for query arg."
 msgstr "Il manque l’information de la table pour l’argument de requête."
 
 #. translators: 1: opening product link tag. 2: closing link tag
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:517
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:514
 msgid "Create ad campaigns and reach one billion global users with %1$sTikTok for WooCommerce%2$s"
 msgstr "Créer des campagnes publicitaires et toucher un milliard d’utilisateurs dans le monde avec %1$sTikTok pour WooCommerce%2$s"
 
@@ -9386,7 +9386,7 @@ msgstr "Ouvrir les fichiers téléchargeables dans le navigateur, au lieu de les
 msgid "Open in browser"
 msgstr "Ouvrir dans le navigateur"
 
-#: includes/admin/class-wc-admin-assets.php:443
+#: includes/admin/class-wc-admin-assets.php:437
 msgid "Summarize this product in 1-2 short sentences. We’ll show it at the top of the page."
 msgstr "Résumez ce produit en 1 ou 2 phrases courtes. Nous l’afficherons en haut de la page."
 
@@ -9398,28 +9398,28 @@ msgstr "Voulez-vous vraiment déconnecter votre boutique de WooCommerce.com ?"
 msgid "Your store is not connected to WooCommerce.com. Run `wp wc com connect` command."
 msgstr "Votre boutique n’est pas connectée à WooCommerce.com. Exécutez la commande « wp wc com connect »."
 
-#: includes/admin/class-wc-admin-assets.php:442
+#: includes/admin/class-wc-admin-assets.php:436
 #: assets/client/admin/product-editor/index.js:2
 msgid "Describe this product. What makes it unique? What are its most important features?"
 msgstr "Décrivez ce produit. Qu’est-ce qui le rend unique ? Quelles sont ses fonctionnalités les plus importantes ?"
 
-#: includes/admin/class-wc-admin-assets.php:441
+#: includes/admin/class-wc-admin-assets.php:435
 msgid "Product types define available product details and attributes, such as downloadable files and variations. They’re also used for analytics and inventory management."
 msgstr "Les types de produits définissent les détails et les attributs des produits disponibles, tels que les fichiers téléchargeables et les variations. Ils sont également utilisés pour les statistiques et la gestion des stocks."
 
-#: includes/admin/class-wc-admin-assets.php:440
+#: includes/admin/class-wc-admin-assets.php:434
 msgid "<b>Variable –</b> a product with variations, each of which may have a different SKU, price, stock option, etc. For example, a t-shirt available in different colors and/or sizes."
 msgstr "<b>Variable</b> : un produit avec des variations, chacune pouvant avoir une référence, un prix, une option de stock, etc. Par exemple, un t-shirt disponible dans différentes couleurs et/ou tailles."
 
-#: includes/admin/class-wc-admin-assets.php:439
+#: includes/admin/class-wc-admin-assets.php:433
 msgid "<b>External or Affiliate –</b> one that you list and describe on your website but is sold elsewhere."
 msgstr "<b>Externe ou affilié</b> : un produit que vous répertoriez et décrivez sur votre site Web, mais qui est vendu ailleurs."
 
-#: includes/admin/class-wc-admin-assets.php:438
+#: includes/admin/class-wc-admin-assets.php:432
 msgid "<b>Grouped –</b> a collection of related products that can be purchased individually and only consist of simple products. For example, a set of six drinking glasses."
 msgstr "<b>Groupé</b> : un ensemble de produits similaires qui peuvent être achetés individuellement et ne se composent que de produits simples. Par exemple, un ensemble de six verres."
 
-#: includes/admin/class-wc-admin-assets.php:437
+#: includes/admin/class-wc-admin-assets.php:431
 msgid "<b>Simple –</b> covers the vast majority of any products you may sell. Simple products are shipped and have no options. For example, a book."
 msgstr "<b>Simple</b> : couvre la grande majorité de tous les produits que vous pouvez vendre. Les produits simples sont expédiés et n’ont pas d’options. Par exemple, un livre."
 
@@ -9520,7 +9520,7 @@ msgid "Invalid order IDs in call to read_multiple()"
 msgstr "ID de commande non valides dans l’appel à read_multiple()"
 
 #: src/Admin/Features/MarketingRecommendations/DefaultMarketingRecommendations.php:112
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:148
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:145
 msgid "List products and create ads on Facebook and Instagram."
 msgstr "Répertoriez les produits et créez des publicités sur Facebook et Instagram."
 
@@ -9584,7 +9584,7 @@ msgstr "WooPayments vous permet d’accepter en toute sécurité les paiements a
 msgid "With WooPayments, you can securely accept major cards, Apple Pay, and payments in over 100 currencies. Track cash flow and manage recurring revenue directly from your store’s dashboard - with no setup costs or monthly fees."
 msgstr "Avec WooPayments, vous pouvez accepter en toute sécurité les principales cartes bancaires, Apple Pay et les paiements dans plus de 100 devises. Suivez vos rentrées d’argent et gérez vos paiements récurrents directement à partir du tableau de bord de votre boutique, sans frais d’installation ou abonnement mensuel."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:140
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:137
 msgid "List products and create ads on Facebook and Instagram with <a href=\"https://woocommerce.com/products/facebook/\">Facebook for WooCommerce</a>"
 msgstr "Répertoriez les produits et créez des publicités sur Facebook et Instagram avec <a href=\"https://woocommerce.com/products/facebook/\">Facebook pour WooCommerce</a>."
 
@@ -9920,12 +9920,6 @@ msgstr "Supprimer tous les indésirables"
 msgid "%1$d out of 5"
 msgstr "%1$d sur 5"
 
-#. translators: Review time format. See
-#. https://www.php.net/manual/datetime.format.php
-#: src/Internal/Admin/ProductReviews/ReviewsListTable.php:1120
-msgid "g:i a"
-msgstr "G h i mi"
-
 #. translators: %s: Parent review link with review author name.
 #: src/Internal/Admin/ProductReviews/ReviewsListTable.php:998
 msgid "In reply to %s."
@@ -10191,6 +10185,12 @@ msgctxt "order dates dropdown"
 msgid "%1$s %2$d"
 msgstr "%1$s %2$d"
 
+#. translators: Review time format. See
+#. https://www.php.net/manual/datetime.format.php
+#: src/Internal/Admin/ProductReviews/ReviewsListTable.php:1120
+msgid "g:i a"
+msgstr "G\\hi"
+
 #: src/Admin/API/Reports/Customers/Controller.php:506
 msgid "Limit result to items with specified user ids."
 msgstr "Limiter le résultat aux articles possédant les ID utilisateur spécifiés."
@@ -10304,13 +10304,13 @@ msgstr "Cette section présente en détail WC Admin."
 msgid "Admin"
 msgstr "Admin"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:460
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:457
 msgid "Grow your online sales by promoting your products on TikTok to over one billion monthly active users around the world."
 msgstr "Développez vos ventes en ligne en faisant la promotion de vos produits sur TikTok auprès de plus d’un milliard d’utilisateurs actifs chaque mois dans le monde."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:457
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:513
-#: assets/client/admin/chunks/9001.js:1 assets/client/admin/data/index.js:2
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:454
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:510
+#: assets/client/admin/chunks/2791.js:1 assets/client/admin/data/index.js:2
 msgid "TikTok for WooCommerce"
 msgstr "TikTok pour WooCommerce"
 
@@ -10752,13 +10752,13 @@ msgid_plural "There are %s orders pending sync."
 msgstr[0] "Il y a %s commande en attente de synchronisation."
 msgstr[1] "Il y a %s commandes en attente de synchronisation."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:173
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:170
 msgid "Get your products in front of Pinterest users searching for ideas and things to buy. Get started with Pinterest and make your entire product catalog browsable."
 msgstr "Présentez vos produits aux utilisateurs de Pinterest à la recherche d’idées et de choses à acheter. Lancez-vous avec Pinterest et rendez l’intégralité de votre catalogue produit consultable."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:155
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:172
-#: assets/client/admin/chunks/9001.js:1 assets/client/admin/data/index.js:2
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:152
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:169
+#: assets/client/admin/chunks/2791.js:1 assets/client/admin/data/index.js:2
 msgid "Pinterest for WooCommerce"
 msgstr "Pinterest pour WooCommerce"
 
@@ -10861,7 +10861,7 @@ msgstr "(aucun identifiant)"
 msgid "Error saving order ID %1$s."
 msgstr "Erreur lors de l’enregistrement de la commande %1$s."
 
-#: includes/admin/class-wc-admin-assets.php:229
+#: includes/admin/class-wc-admin-assets.php:223
 msgid "Are you sure you wish to delete this item?"
 msgstr "Confirmez-vous la suppression de cet élément ?"
 
@@ -11246,7 +11246,7 @@ msgid "Save up to $800 in fees by managing transactions with WooPayments. With W
 msgstr "Économisez jusqu’à 800 USD sur les frais en gérant les transactions avec WooPayments. Avec WooPayments, vous pouvez accepter en toute sécurité les principales cartes bancaires, Apple Pay et les paiements dans plus de 100 devises."
 
 #. translators: 1: opening product link tag. 2: closing link tag
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:220
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:217
 msgid "Accept credit cards and other popular payment methods with %1$sWooPayments%2$s"
 msgstr "Acceptez les cartes de crédit et d’autres méthodes de paiement populaires avec %1$sWooPayments%2$s"
 
@@ -12183,7 +12183,7 @@ msgstr "Désolé, cette commande nécessite une option de livraison."
 msgid "If this is a default attribute"
 msgstr "S’il s’agit d’un attribut par défaut"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:133
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:130
 msgid "Reach more shoppers and drive sales for your store. Integrate with Google to list your products for free and launch paid ad campaigns."
 msgstr "Touchez plus d’acheteurs et boostez les ventes de votre boutique. Intégrez-vous à Google pour répertorier vos produits gratuitement et lancer des campagnes publicitaires payantes."
 
@@ -12287,11 +12287,11 @@ msgstr "Indique si cette boutique a accepté de recevoir des communications mark
 msgid "This is where you can browse products in this store."
 msgstr "C’est ici que vous pouvez parcourir les produits de cette boutique."
 
-#: includes/admin/class-wc-admin-assets.php:364
+#: includes/admin/class-wc-admin-assets.php:358
 msgid "Are you sure you want to remove the selected shipping?"
 msgstr "Voulez-vous vraiment supprimer l’expédition sélectionnée ?"
 
-#: includes/admin/class-wc-admin-assets.php:363
+#: includes/admin/class-wc-admin-assets.php:357
 msgid "Are you sure you want to remove the selected fees?"
 msgstr "Voulez-vous vraiment supprimer les frais sélectionnés ?"
 
@@ -12303,27 +12303,27 @@ msgstr "Ajoutez des outils marketing recommandés pour atteindre de nouveaux cli
 msgid "Locations outside all other zones"
 msgstr "Emplacements en dehors de toutes les autres zones"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:59
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:56
 msgid "Reach out to customers"
 msgstr "Contacter des clients"
 
 #. translators: 1: opening product link tag. 2: closing link tag
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:431
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:428
 msgid "Level up your email marketing with %1$sMailPoet%2$s"
 msgstr "Faites passer votre marketing par e-mail à la vitesse supérieure avec %1$sMailPoet%2$s"
 
 #. translators: 1: opening product link tag. 2: closing link tag
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:408
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:405
 msgid "Enhance speed and security with %1$sJetpack%2$s"
 msgstr "Gagnez en vitesse et en sécurité avec %1$sJetpack%2$s"
 
 #. translators: 1: opening product link tag. 2: closing link tag
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:367
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:364
 msgid "Get automated sales tax with %1$sWooCommerce Tax%2$s"
 msgstr "Automatisez les taxes sur les ventes avec %1$sWooCommerce Tax%2$s"
 
 #. translators: 1: opening product link tag. 2: closing link tag
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:280
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:277
 msgid "Print shipping labels with %1$sWooCommerce Shipping%2$s"
 msgstr "Imprimez des étiquettes de livraison avec %1$sWooCommerce Shipping%2$s"
 
@@ -12418,12 +12418,12 @@ msgstr "Numéro de téléphone d’expédition"
 msgid "Billing Phone Number"
 msgstr "Numéro de téléphone de facturation"
 
-#: includes/class-wc-install.php:918
+#: includes/class-wc-install.php:921
 msgctxt "Page title"
 msgid "Refund and Returns Policy"
 msgstr "Politique en matière de remboursements et de retours"
 
-#: includes/class-wc-install.php:917
+#: includes/class-wc-install.php:920
 msgctxt "Page slug"
 msgid "refund_returns"
 msgstr "remboursements_retours"
@@ -12498,9 +12498,9 @@ msgstr "L’adresse de votre boutique est nécessaire pour définir le pays d’
 msgid "Set your store location and configure tax rate settings."
 msgstr "Définissez l’emplacement de votre boutique et configurez les réglages du taux de taxe."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:49
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:68
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:78
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:46
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:65
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:75
 msgid "Grow your store"
 msgstr "Développer votre boutique"
 
@@ -12594,8 +12594,8 @@ msgid "Manage transactions without leaving your WordPress Dashboard. Only with W
 msgstr "Gérez les transactions sans quitter votre tableau de bord WordPress. Uniquement avec WooPayments."
 
 #: src/Admin/Features/MarketingRecommendations/DefaultMarketingRecommendations.php:128
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:180
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:451
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:177
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:448
 msgid "Create and send purchase follow-up emails, newsletters, and promotional campaigns straight from your dashboard."
 msgstr "Créer et envoyer des e-mails de suivi d’achat, newsletters, campagnes promotionnelles directement depuis votre tableau de bord."
 
@@ -12633,7 +12633,7 @@ msgstr "L’ajout d’une étiquette produit a-t-il été simple ?"
 
 #. translators: %1$s: Link to WP Mail Logging plugin, %2$s: Link to Email FAQ
 #. support page.
-#: includes/admin/settings/class-wc-settings-emails.php:85
+#: includes/admin/settings/class-wc-settings-emails.php:84
 msgid "To ensure your store&rsquo;s notifications arrive in your and your customers&rsquo; inboxes, we recommend connecting your email address to your domain and setting up a dedicated SMTP server. If something doesn&rsquo;t seem to be sending correctly, install the <a href=\"%1$s\">WP Mail Logging Plugin</a> or check the <a href=\"%2$s\">Email FAQ page</a>."
 msgstr "Pour vous assurer que les notifications de votre boutique arrivent dans votre boîte de réception et celle de vos clients, nous vous recommandons de connecter votre adresse e-mail à votre domaine et de configurer un serveur SMTP dédié. Si quelque chose ne semble pas s’envoyer correctement, installez <a href=\"%1$s\">l’extension WP Mail Logging</a> ou consultez la <a href=\"%2$s\">page FAQ sur les e-mails</a>."
 
@@ -12746,10 +12746,10 @@ msgstr "Capital"
 msgid "This tool will regenerate the product attributes lookup table data from existing product(s) data. This process may take a while."
 msgstr "Cet outil régénérera les données de la table de recherche des attributs de produit à partir des données de produits existantes. Ce processus peut prendre un certain temps."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:179
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:427
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:450
-#: assets/client/admin/chunks/9001.js:1 assets/client/admin/data/index.js:2
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:176
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:424
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:447
+#: assets/client/admin/chunks/2791.js:1 assets/client/admin/data/index.js:2
 msgid "MailPoet"
 msgstr "MailPoet"
 
@@ -13244,7 +13244,7 @@ msgstr "Baja Verapaz"
 msgid "Alta Verapaz"
 msgstr "Alta Verapaz"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:39
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:36
 msgid "Get the basics"
 msgstr "Les bases"
 
@@ -13296,15 +13296,15 @@ msgstr "Nous vous invitons à partager votre expérience"
 msgid "I don't know how to get a date from a %s"
 msgstr "Je ne sais pas comment obtenir une date à partir d’un %s"
 
-#: includes/admin/settings/class-wc-settings-emails.php:406
+#: includes/admin/settings/class-wc-settings-emails.php:405
 msgid "Receive email notifications with additional guidance to complete the basic store setup and helpful insights"
 msgstr "Recevoir des notifications par e-mail pour obtenir davantage d’aide sur la configuration de base d’une boutique ainsi que des informations utiles sur les tendances"
 
-#: includes/admin/settings/class-wc-settings-emails.php:405
+#: includes/admin/settings/class-wc-settings-emails.php:404
 msgid "Enable email insights"
 msgstr "Activer les tendances par e-mail"
 
-#: includes/admin/settings/class-wc-settings-emails.php:399
+#: includes/admin/settings/class-wc-settings-emails.php:398
 msgid "Store management insights"
 msgstr "Tendances de gestion de la boutique"
 
@@ -13467,7 +13467,7 @@ msgstr "Si le produit est visible dans le catalogue"
 
 #: src/Admin/Features/PaymentGatewaySuggestions/DefaultPaymentGateways.php:580
 #: src/Internal/Admin/Suggestions/PaymentExtensionSuggestions.php:2346
-#: assets/client/admin/chunks/9001.js:1 assets/client/admin/data/index.js:2
+#: assets/client/admin/chunks/2791.js:1 assets/client/admin/data/index.js:2
 msgid "Razorpay"
 msgstr "Razorpay"
 
@@ -13689,7 +13689,7 @@ msgstr "Étiquette supprimée."
 msgid "Categories deleted."
 msgstr "Catégories supprimées."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:276
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:273
 #: assets/client/admin/chunks/shipping-recommendations.js:1
 msgid "WooCommerce Shipping"
 msgstr "WooCommerce Shipping"
@@ -14160,7 +14160,7 @@ msgstr "Atakora"
 msgid "Alibori"
 msgstr "Alibori"
 
-#: includes/admin/class-wc-admin-notices.php:416
+#: includes/admin/class-wc-admin-notices.php:413
 #: includes/tracks/events/class-wc-admin-setup-wizard-tracking.php:29
 #: includes/tracks/events/class-wc-admin-setup-wizard-tracking.php:39
 #: includes/tracks/events/class-wc-admin-setup-wizard-tracking.php:49
@@ -15044,7 +15044,7 @@ msgstr "Illizi"
 msgid "El Bayadh"
 msgstr "El Bayadh"
 
-#: includes/admin/class-wc-admin-assets.php:523
+#: includes/admin/class-wc-admin-assets.php:517
 msgid "Are you sure you want to run this tool?"
 msgstr "Voulez-vous vraiment exécuter cet outil ?"
 
@@ -15123,11 +15123,11 @@ msgctxt "taxonomy term messages"
 msgid "%s not updated"
 msgstr "%s : pas mis à jour"
 
-#: includes/class-wc-install.php:2256
+#: includes/class-wc-install.php:2259
 msgid "Visit community forums"
 msgstr "Visiter les forums de la communauté"
 
-#: includes/class-wc-install.php:2256
+#: includes/class-wc-install.php:2259
 msgid "Community support"
 msgstr "Entraide de la communauté"
 
@@ -15321,12 +15321,12 @@ msgstr "Note d’administration non valide"
 msgid "Browse store"
 msgstr "Parcourir la boutique"
 
-#: includes/class-wc-install.php:2787 src/Blocks/BlockTypes/Cart.php:88
+#: includes/class-wc-install.php:2790 src/Blocks/BlockTypes/Cart.php:88
 #: assets/client/blocks/cart.js:21
 msgid "New in store"
 msgstr "Nouveau dans la boutique"
 
-#: includes/class-wc-install.php:2779 src/Blocks/BlockTypes/Cart.php:78
+#: includes/class-wc-install.php:2782 src/Blocks/BlockTypes/Cart.php:78
 #: src/Blocks/BlockTypes/MiniCart.php:572 assets/client/blocks/cart.js:21
 #: assets/client/blocks/checkout-frontend.js:1
 msgid "Your cart is currently empty!"
@@ -15410,7 +15410,7 @@ msgid "4 minutes"
 msgstr "4 minutes"
 
 #: src/Admin/Features/OnboardingTasks/Tasks/StoreDetails.php:33
-#: assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/chunks/2791.js:1
 msgid "Store details"
 msgstr "Détails de la boutique"
 
@@ -15435,7 +15435,7 @@ msgstr "1 minute par produit"
 #: src/Internal/Admin/ProductReviews/Reviews.php:446
 #: src/Internal/Admin/ProductReviews/Reviews.php:457
 #: assets/client/admin/app/index.js:2 assets/client/admin/chunks/833.js:2
-#: assets/client/admin/chunks/8656.js:1 assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/chunks/2791.js:1 assets/client/admin/chunks/8656.js:1
 #: assets/client/admin/chunks/activity-panels-inbox.js:1
 #: assets/client/blocks/cart.js:44 assets/client/blocks/checkout.js:40
 #: assets/client/blocks/classic-shortcode.js:1
@@ -16665,7 +16665,7 @@ msgstr "Premiers pas"
 msgid "Mobile app"
 msgstr "Application mobile"
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:203
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:200
 msgid "Send targeted campaigns, recover abandoned carts and much more with Mailchimp."
 msgstr "Envoyez des campagnes ciblées, récupérez les paniers abandonnés et plus encore avec Mailchimp."
 
@@ -18443,11 +18443,11 @@ msgid "Add your first product"
 msgstr "Ajouter votre premier produit"
 
 #: src/Internal/Admin/Loader.php:520 src/Internal/Admin/Loader.php:521
-#: src/Internal/Admin/Settings.php:330 src/Internal/Admin/Settings.php:331
+#: src/Internal/Admin/Settings.php:327 src/Internal/Admin/Settings.php:328
 msgid "Default Date Range"
 msgstr "Plage de dates par défaut"
 
-#: src/Internal/Admin/Loader.php:503 src/Internal/Admin/Settings.php:313
+#: src/Internal/Admin/Loader.php:503 src/Internal/Admin/Settings.php:310
 msgid "Statuses that should not be included when calculating report totals."
 msgstr "Statuts ne devant pas être inclus dans le calcul des totaux de rapport."
 
@@ -18467,7 +18467,7 @@ msgstr "La propriété d’étiquette de l’action de note administrateur est o
 msgid "The admin note action name prop cannot be empty."
 msgstr "La propriété de nom de l’action de note administrateur est obligatoire."
 
-#: src/Internal/Admin/Loader.php:512 src/Internal/Admin/Settings.php:322
+#: src/Internal/Admin/Loader.php:512 src/Internal/Admin/Settings.php:319
 msgid "Statuses that require extra action on behalf of the store admin."
 msgstr "Statuts nécessitant une action supplémentaire au nom de l’administrateur de la boutique."
 
@@ -18475,7 +18475,7 @@ msgstr "Statuts nécessitant une action supplémentaire au nom de l’administra
 msgid "The admin note locale prop cannot be empty."
 msgstr "La propriété de paramètres locaux de la note administrateur est obligatoire."
 
-#: src/Internal/Admin/Loader.php:511 src/Internal/Admin/Settings.php:321
+#: src/Internal/Admin/Loader.php:511 src/Internal/Admin/Settings.php:318
 msgid "Actionable order statuses"
 msgstr "États actionnables de commande"
 
@@ -18509,11 +18509,11 @@ msgstr "action ignorée via %s"
 msgid "action complete via %s"
 msgstr "action terminée via %s"
 
-#: src/Internal/Admin/Loader.php:502 src/Internal/Admin/Settings.php:312
+#: src/Internal/Admin/Loader.php:502 src/Internal/Admin/Settings.php:309
 msgid "Excluded report order statuses"
 msgstr "Statuts des commandes exclus des rapports"
 
-#: src/Internal/Admin/Loader.php:483 src/Internal/Admin/Settings.php:293
+#: src/Internal/Admin/Loader.php:483 src/Internal/Admin/Settings.php:290
 msgid "Settings for WooCommerce admin reporting."
 msgstr "Configuration de la création de rapports dans WooCommerce Admin."
 
@@ -18813,7 +18813,7 @@ msgstr "Produit en promotion"
 msgid "You are paying for a guest order. Please continue with payment only if you recognize this order."
 msgstr "Vous êtes en train de payer une commande invité. Veuillez continuer avec le paiement uniquement si vous reconnaissez cette commande."
 
-#: includes/admin/settings/class-wc-settings-emails.php:164
+#: includes/admin/settings/class-wc-settings-emails.php:163
 #: assets/client/blocks/all-products.js:15
 msgid "Center"
 msgstr "Centre"
@@ -19265,7 +19265,7 @@ msgid "Invalid product type: passed ID does not correspond to a product variatio
 msgstr "Type de produit invalide : l’identifiant transmis ne correspond à aucune variation de produit."
 
 #. translators: %s: decimal
-#: includes/admin/class-wc-admin-assets.php:222
+#: includes/admin/class-wc-admin-assets.php:216
 msgid "Please enter a value with one decimal point (%s) without thousand separators."
 msgstr "Veuillez saisir une valeur avec séparateur de décimale (%s) sans séparateur des milliers."
 
@@ -19301,7 +19301,7 @@ msgstr "Vous devez saisir une clé de licence valide sur la <a href=\"%1$s\">pag
 msgid "Geolocation has not been configured."
 msgstr "La geolocalisation n’a pas été configurée."
 
-#: includes/class-wc-install.php:782
+#: includes/class-wc-install.php:785
 msgid "Every 15 Days"
 msgstr "Tous les 15 jours"
 
@@ -19447,7 +19447,7 @@ msgstr "Afficher la description"
 msgid "Columns"
 msgstr "Colonnes"
 
-#: includes/admin/class-wc-admin-assets.php:318
+#: includes/admin/class-wc-admin-assets.php:312
 msgid "1 variation"
 msgstr "1 variation"
 
@@ -20027,7 +20027,7 @@ msgstr "Gérez les rapports de votre boutique et surveillez les valeurs clés au
 
 #: includes/admin/class-wc-admin-setup-wizard.php:1920
 #: includes/admin/class-wc-admin-setup-wizard.php:1924
-#: src/Internal/Admin/Loader.php:482 src/Internal/Admin/Settings.php:292
+#: src/Internal/Admin/Loader.php:482 src/Internal/Admin/Settings.php:289
 msgid "WooCommerce Admin"
 msgstr "WooCommerce Admin"
 
@@ -20067,7 +20067,7 @@ msgstr "Lister les classes de taxe additionnelles dont vous avez besoin ci-desso
 msgid "Variations (and their attributes) that do not have prices will not be shown in your store."
 msgstr "Les variations (et leurs attributs) sans prix ne s’afficheront pas sur votre boutique."
 
-#: includes/admin/class-wc-admin-assets.php:350
+#: includes/admin/class-wc-admin-assets.php:344
 msgid "Generate coupon code"
 msgstr "Générer un code promo"
 
@@ -20089,11 +20089,11 @@ msgstr "Données : %1$.2fMB + Index : %2$.2fMB + Moteur %3$s"
 msgid "Drag and drop to set admin attribute order"
 msgstr "Glissez-déposez pour définir un ordre d’attribut d’administration"
 
-#: includes/class-wc-install.php:981
+#: includes/class-wc-install.php:984
 msgid "Zero rate"
 msgstr "Taux zéro"
 
-#: includes/class-wc-install.php:980
+#: includes/class-wc-install.php:983
 msgid "Reduced rate"
 msgstr "Taux réduit"
 
@@ -20397,7 +20397,7 @@ msgstr "Extensions Dropin"
 msgid "Inactive plugins"
 msgstr "Extensions inactives"
 
-#: includes/admin/class-wc-admin-assets.php:563
+#: includes/admin/class-wc-admin-assets.php:557
 msgid "Dismiss this suggestion"
 msgstr "Ignorer cette suggestion"
 
@@ -20425,7 +20425,7 @@ msgstr "Ajoute une option à l’écran des commandes pour supprimer des donnée
 msgid "Start Import"
 msgstr "Démarrer l’importation"
 
-#: includes/admin/class-wc-admin-assets.php:434
+#: includes/admin/class-wc-admin-assets.php:428
 msgid "Enter a coupon code to apply. Discounts are applied to line totals, before taxes."
 msgstr "Saisir un code promo à appliquer. Les remises sont appliquées aux lignes de totaux, avant les taxes."
 
@@ -20433,7 +20433,7 @@ msgstr "Saisir un code promo à appliquer. Les remises sont appliquées aux lign
 msgid "Allow usage of WooCommerce to be tracked"
 msgstr "Permettre le suivi de l’utilisation de WooCommerce"
 
-#: includes/admin/class-wc-admin-assets.php:565
+#: includes/admin/class-wc-admin-assets.php:559
 #: includes/admin/marketplace-suggestions/templates/html-product-data-extensions.php:27
 msgid "Manage suggestions"
 msgstr "Gérer les suggestions"
@@ -20460,9 +20460,9 @@ msgid "Extensions can add new functionality to your product pages that make your
 msgstr "Les extensions peuvent ajouter de nouvelles fonctionnalités aux pages de vos produits pour que votre magasin se démarque"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:1946
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:139
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:147
-#: assets/client/admin/chunks/9001.js:1 assets/client/admin/data/index.js:2
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:136
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:144
+#: assets/client/admin/chunks/2791.js:1 assets/client/admin/data/index.js:2
 msgid "Facebook for WooCommerce"
 msgstr "Facebook for WooCommerce"
 
@@ -20694,11 +20694,11 @@ msgstr "Terminaisons WooCommerce"
 msgid "You do not have permission to assign API Keys to the selected user."
 msgstr "Vous n’avez pas le droit d’assigner des clés API à l’utilisateur sélectionné."
 
-#: includes/admin/helper/views/html-oauth-start.php:46
+#: includes/admin/helper/views/html-oauth-start.php:33
 msgid "Feel free to reconnect again using the button below."
 msgstr "Essayez de vous reconnecter avec le bouton ci-dessous."
 
-#: includes/admin/helper/views/html-oauth-start.php:46
+#: includes/admin/helper/views/html-oauth-start.php:33
 msgid "Sorry to see you go."
 msgstr "Désolé de vous voir partir."
 
@@ -21914,11 +21914,11 @@ msgstr "Yards"
 msgid "Sud Sardegna"
 msgstr "Sud Sardegna"
 
-#: includes/admin/class-wc-admin-assets.php:375
+#: includes/admin/class-wc-admin-assets.php:369
 msgid "You may need to manually restore the item's stock."
 msgstr "Il est peut-être nécessaire de remettre du stock à cet élément."
 
-#: includes/admin/class-wc-admin-assets.php:362
+#: includes/admin/class-wc-admin-assets.php:356
 msgid "Are you sure you want to remove the selected items?"
 msgstr "Voulez-vous vraiment supprimer les éléments sélectionnés ?"
 
@@ -21937,7 +21937,7 @@ msgstr[1] "%d clés API révoquée définitivement."
 msgid "Cannot set attributes due to invalid parent product."
 msgstr "Impossible de définir des attributs à cause d’un produit parent non valide."
 
-#: includes/admin/class-wc-admin-assets.php:228
+#: includes/admin/class-wc-admin-assets.php:222
 msgid "This action cannot be reversed. Are you sure you wish to erase personal data from the selected orders?"
 msgstr "Cette action est irréversible. Confirmez-vous que vous souhaitez supprimer vos données personnelles des commandes sélectionnées ?"
 
@@ -22381,7 +22381,7 @@ msgid "URL to edit the order"
 msgstr "URL de modification de la commande"
 
 #. translators: user role
-#: includes/class-wc-install.php:1957
+#: includes/class-wc-install.php:1960
 msgctxt "User role"
 msgid "Customer"
 msgstr "Client"
@@ -22452,7 +22452,7 @@ msgid "Customer download permissions have been retained."
 msgstr "Les droits de téléchargements des clients ont été conservés."
 
 #. translators: user role
-#: includes/class-wc-install.php:1959
+#: includes/class-wc-install.php:1962
 msgctxt "User role"
 msgid "Shop manager"
 msgstr "Gestionnaire de boutique"
@@ -22523,7 +22523,7 @@ msgid "Payments"
 msgstr "Paiements"
 
 #. Translators: %s Payment gateway name.
-#: includes/admin/settings/class-wc-settings-emails.php:609
+#: includes/admin/settings/class-wc-settings-emails.php:608
 #: includes/admin/settings/class-wc-settings-payment-gateways.php:216
 #: includes/admin/settings/class-wc-settings-payment-gateways.php:220
 #: assets/client/admin/app/index.js:2
@@ -22743,7 +22743,7 @@ msgid "Connect your store to activate WooCommerce Services"
 msgstr "Connectez-vous à votre boutique pour activer WooCommerce Services"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:1935
-#: assets/client/admin/chunks/9001.js:1 assets/client/admin/data/index.js:2
+#: assets/client/admin/chunks/2791.js:1 assets/client/admin/data/index.js:2
 msgid "Mailchimp for WooCommerce"
 msgstr "MailChimp for WooCommerce"
 
@@ -22756,7 +22756,7 @@ msgid "Join the 16 million customers who use Mailchimp. Sync list and store data
 msgstr "Rejoignez les 16 millions de clients qui utilisent MailChimp. Synchronisez la liste et conservez les données pour envoyer des e-mails automatiques et réaliser des campagnes ciblées."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:1931
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:202
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:199
 msgid "Mailchimp"
 msgstr "MailChimp"
 
@@ -22818,12 +22818,12 @@ msgid "WooCommerce eWAY Gateway"
 msgstr "WooCommerce eWAY Gateway"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:1478
-#: assets/client/admin/chunks/9001.js:1 assets/client/admin/data/index.js:2
+#: assets/client/admin/chunks/2791.js:1 assets/client/admin/data/index.js:2
 msgid "Klarna Payments for WooCommerce"
 msgstr "Klarna Payments for WooCommerce"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:1470
-#: assets/client/admin/chunks/9001.js:1 assets/client/admin/data/index.js:2
+#: assets/client/admin/chunks/2791.js:1 assets/client/admin/data/index.js:2
 msgid "Klarna Checkout for WooCommerce"
 msgstr "Klarna Checkout for WooCommerce"
 
@@ -23265,7 +23265,7 @@ msgstr "Chattogram"
 msgid "Lofa"
 msgstr "Lofa"
 
-#: includes/admin/class-wc-admin-notices.php:283
+#: includes/admin/class-wc-admin-notices.php:282
 #: includes/emails/class-wc-email.php:1017
 msgid "You don&#8217;t have permission to do this."
 msgstr "Vous n’êtes pas autorisé à effectuer cette opération."
@@ -23451,7 +23451,7 @@ msgid "Buy &ldquo;%s&rdquo;"
 msgstr "Acheter &ldquo;%s&rdquo;"
 
 #: includes/admin/class-wc-admin-taxonomies.php:340
-#: includes/class-wc-install.php:1216 includes/class-wc-install.php:1222
+#: includes/class-wc-install.php:1219 includes/class-wc-install.php:1225
 msgctxt "Default category slug"
 msgid "Uncategorized"
 msgstr "Non classé"
@@ -24028,7 +24028,7 @@ msgstr "Criuleni"
 msgid "Move &#8220;%s&#8221; to the Trash"
 msgstr "Déplacer &#8220;%s&#8221; à la corbeille"
 
-#: includes/admin/class-wc-admin-assets.php:227
+#: includes/admin/class-wc-admin-assets.php:221
 msgid "This product has produced sales and may be linked to existing orders. Are you sure you want to delete it?"
 msgstr "Ce produit a engendré des ventes et est peut être lié à des ventes existantes. Êtes-vous sûr de vouloir le supprimer ?"
 
@@ -24625,8 +24625,8 @@ msgstr "Configuration de la boutique"
 #: includes/admin/class-wc-admin-setup-wizard.php:786
 #: includes/admin/class-wc-admin-setup-wizard.php:826
 #: src/Admin/API/Plugins.php:412
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:404
-#: assets/client/admin/chunks/9001.js:1 assets/client/admin/data/index.js:2
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:401
+#: assets/client/admin/chunks/2791.js:1 assets/client/admin/data/index.js:2
 msgid "Jetpack"
 msgstr "Jetpack"
 
@@ -24756,7 +24756,7 @@ msgstr "Nidwald"
 msgid "Luzern"
 msgstr "Lucerne"
 
-#: includes/admin/class-wc-admin-assets.php:435
+#: includes/admin/class-wc-admin-assets.php:429
 msgid "Enter a fixed amount or percentage to apply as a fee."
 msgstr "Saisissez un montant fixe ou un pourcentage à appliquer en tant que frais."
 
@@ -24817,7 +24817,7 @@ msgid "Luanda"
 msgstr "Luanda"
 
 #. translators: %s: extensions count
-#: includes/admin/class-wc-admin-menus.php:217
+#: includes/admin/class-wc-admin-menus.php:216
 msgid "Extensions %s"
 msgstr "Extensions %s"
 
@@ -24983,8 +24983,8 @@ msgstr "Impossible d’attacher « %s »."
 
 #. translators: %s: Available placeholders for use
 #. translators: %s: list of placeholders
-#: includes/admin/settings/class-wc-settings-emails.php:107
-#: includes/admin/settings/class-wc-settings-emails.php:177
+#: includes/admin/settings/class-wc-settings-emails.php:106
+#: includes/admin/settings/class-wc-settings-emails.php:176
 #: includes/emails/class-wc-email-cancelled-order.php:152
 #: includes/emails/class-wc-email-customer-invoice.php:184
 #: includes/emails/class-wc-email-customer-refunded-order.php:238
@@ -25313,7 +25313,7 @@ msgstr "Déconnecter"
 msgid "My Subscriptions"
 msgstr "Mes abonnements"
 
-#: includes/admin/helper/views/html-oauth-start.php:51
+#: includes/admin/helper/views/html-oauth-start.php:38
 #: assets/client/admin/app/index.js:2
 #: assets/client/admin/chunks/marketplace.js:1
 msgid "Connect"
@@ -25324,7 +25324,7 @@ msgstr "Connecter"
 msgid "Import Products"
 msgstr "Importer des produits"
 
-#: includes/admin/helper/views/html-oauth-start.php:49
+#: includes/admin/helper/views/html-oauth-start.php:36
 msgid "Manage your subscriptions, get important product notifications, and updates, all from the convenience of your WooCommerce dashboard"
 msgstr "Gérez vos abonnements, obtenez des notifications importantes sur les produits et des mises à jour facilement depuis votre tableau de bord WooCommerce"
 
@@ -25336,7 +25336,7 @@ msgstr[0] "Impossible d&rsquo;importer %s produit"
 msgstr[1] "Impossible d&rsquo;importer %s produits"
 
 #: includes/admin/helper/views/html-main.php:13
-#: includes/admin/helper/views/html-oauth-start.php:27
+#: includes/admin/helper/views/html-oauth-start.php:14
 msgid "WooCommerce Extensions"
 msgstr "Extensions pour WooCommerce"
 
@@ -25524,7 +25524,7 @@ msgstr "Mis en avant ?"
 msgid "Allow customer reviews?"
 msgstr "Autoriser les avis clients ?"
 
-#: includes/admin/helper/views/html-oauth-start.php:50
+#: includes/admin/helper/views/html-oauth-start.php:37
 msgid "Once connected, your WooCommerce.com purchases will be listed here."
 msgstr "Une fois la connexion établie, vos achats sur WooCommerce.com seront répertoriés ici."
 
@@ -25690,13 +25690,13 @@ msgstr "Lien personnalisé"
 msgid "Back to Attributes"
 msgstr "Retour aux attributs"
 
-#: includes/admin/class-wc-admin-assets.php:235
+#: includes/admin/class-wc-admin-assets.php:229
 #: includes/admin/importers/class-wc-product-csv-importer-controller.php:185
 #: assets/client/admin/chunks/core-profiler.js:1
 msgid "Import"
 msgstr "Importer"
 
-#: includes/admin/class-wc-admin-assets.php:236
+#: includes/admin/class-wc-admin-assets.php:230
 #: assets/client/admin/app/index.js:2
 msgid "Export"
 msgstr "Exporter"
@@ -25725,7 +25725,7 @@ msgstr "L&rsquo;API REST WooCommerce autorise des applications tierces à visual
 msgid "WooCommerce Endpoint"
 msgstr "Point de terminaison WooCommerce"
 
-#: includes/admin/class-wc-admin-assets.php:522
+#: includes/admin/class-wc-admin-assets.php:516
 msgid "Are you sure you want to delete this log?"
 msgstr "Confirmez-vous la suppression de ce journal ?"
 
@@ -25944,12 +25944,12 @@ msgstr "Méthode de requête inconnue."
 msgid "Create"
 msgstr "Créer"
 
-#: includes/admin/class-wc-admin-assets.php:339
+#: includes/admin/class-wc-admin-assets.php:333
 #: includes/admin/meta-boxes/views/html-order-item-meta.php:63
 msgid "Value (required)"
 msgstr "Valeur (nécessaire)"
 
-#: includes/admin/class-wc-admin-assets.php:338
+#: includes/admin/class-wc-admin-assets.php:332
 #: includes/admin/meta-boxes/views/html-order-item-meta.php:62
 msgid "Name (required)"
 msgstr "Nom (nécessaire)"
@@ -25966,7 +25966,7 @@ msgstr "ID."
 msgid "Recalculate"
 msgstr "Recalculer"
 
-#: includes/admin/class-wc-admin-assets.php:397
+#: includes/admin/class-wc-admin-assets.php:391
 msgid "Recalculate totals? This will calculate taxes based on the customers country (or the store base country) and update totals."
 msgstr "Recalculer les totaux ? Cela calculera la taxe sur la base du pays des clients (ou du pays de la boutique) et actualisera les totaux."
 
@@ -26538,7 +26538,7 @@ msgid_plural "Categories"
 msgstr[0] "Catégorie"
 msgstr[1] "Catégories"
 
-#: includes/class-wc-install.php:2260
+#: includes/class-wc-install.php:2263
 msgid "Visit premium customer support"
 msgstr "Visitez le forum support des clients premium"
 
@@ -27115,6 +27115,15 @@ msgstr "La ressource ne peut pas être créée. Vérifiez que « commande » e
 msgid "Number of days until access to downloadable files expires."
 msgstr "Nombre de jours jusqu&rsquo;à l&rsquo;expiration des accès aux fichiers téléchargeables."
 
+#: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:1905
+#: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:2382
+#: includes/rest-api/Controllers/Version2/class-wc-rest-product-variations-v2-controller.php:837
+#: includes/rest-api/Controllers/Version2/class-wc-rest-products-v2-controller.php:1885
+#: includes/rest-api/Controllers/Version3/class-wc-rest-product-variations-controller.php:657
+#: includes/rest-api/Controllers/Version3/class-wc-rest-products-controller.php:1218
+msgid "Number of times downloadable files can be downloaded after purchase."
+msgstr "Nombre de fois que les fichiers téléchargeables peuvent être téléchargés après l&rsquo;achat."
+
 #: includes/rest-api/Controllers/Version2/class-wc-rest-product-reviews-v2-controller.php:169
 #: includes/rest-api/Controllers/Version3/class-wc-rest-product-reviews-controller.php:864
 #: src/StoreApi/Schemas/V1/ProductReviewSchema.php:70
@@ -27136,15 +27145,6 @@ msgstr "Texte d&rsquo;aide supplémentaire affiché à l&rsquo;utilisateur pour 
 #: includes/rest-api/Controllers/Version3/class-wc-rest-setting-options-controller.php:230
 msgid "Type of setting."
 msgstr "Type de réglage."
-
-#: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:1905
-#: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:2382
-#: includes/rest-api/Controllers/Version2/class-wc-rest-product-variations-v2-controller.php:837
-#: includes/rest-api/Controllers/Version2/class-wc-rest-products-v2-controller.php:1885
-#: includes/rest-api/Controllers/Version3/class-wc-rest-product-variations-controller.php:657
-#: includes/rest-api/Controllers/Version3/class-wc-rest-products-controller.php:1218
-msgid "Number of times downloadable files can be downloaded after purchase."
-msgstr "Nombre de fois que les fichiers téléchargeables peuvent être téléchargés après l&rsquo;achat."
 
 #: includes/rest-api/Controllers/Version2/class-wc-rest-payment-gateways-v2-controller.php:412
 #: includes/rest-api/Controllers/Version2/class-wc-rest-setting-options-v2-controller.php:547
@@ -27672,22 +27672,22 @@ msgid "When product stock reaches this amount the stock status will change to \"
 msgstr "Lorsque le stock atteindra cette quantité, l’état de stock changera à « en rupture de stock » et vous serez notifié par e-mail. Ce réglage n’affectera pas les produits « en stock » existants."
 
 #. translators: %s: default color
-#: includes/admin/settings/class-wc-settings-emails.php:133
+#: includes/admin/settings/class-wc-settings-emails.php:132
 msgid "The main body text color. Default %s."
 msgstr "La couleur du texte du corps. Par défaut %s."
 
 #. translators: %s: default color
-#: includes/admin/settings/class-wc-settings-emails.php:129
+#: includes/admin/settings/class-wc-settings-emails.php:128
 msgid "The main body background color. Default %s."
 msgstr "La couleur de fond du corps. Par défaut %s."
 
 #. translators: %s: default color
-#: includes/admin/settings/class-wc-settings-emails.php:125
+#: includes/admin/settings/class-wc-settings-emails.php:124
 msgid "The background color for WooCommerce email templates. Default %s."
 msgstr "La couleur de fond pour les modèles d&rsquo;e-mail WooCommerce. Par défaut %s."
 
 #. translators: %s: default color
-#: includes/admin/settings/class-wc-settings-emails.php:121
+#: includes/admin/settings/class-wc-settings-emails.php:120
 msgid "The base color for WooCommerce email templates. Default %s."
 msgstr "La couleur de base pour les modèles d&rsquo;e-mail WooCommerce. Par défaut %s."
 
@@ -28065,15 +28065,6 @@ msgstr "Option de visibilité catalogue non valide."
 msgid "Invalid currency code"
 msgstr "Code devise non valide"
 
-#: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:1639
-#: includes/rest-api/Controllers/Version2/class-wc-rest-products-v2-controller.php:940
-#: includes/rest-api/Controllers/Version2/class-wc-rest-products-v2-controller.php:1571
-#: includes/rest-api/Controllers/Version3/class-wc-rest-posts-controller.php:151
-#: includes/rest-api/Controllers/Version3/class-wc-rest-posts-controller.php:258
-#: includes/rest-api/Controllers/Version3/class-wc-rest-products-controller.php:591
-msgid "To manipulate product variations you should use the /products/&lt;product_id&gt;/variations/&lt;id&gt; endpoint."
-msgstr "Pour manipuler les variations de produit, vous devez utiliser le point de terminaison /produits/&lt;product_id&gt;/variations/&lt;id&gt;."
-
 #: i18n/states.php:1407
 msgid "Zamfara"
 msgstr "Zamfara"
@@ -28089,6 +28080,15 @@ msgstr "Taraba"
 #: i18n/states.php:1404
 msgid "Sokoto"
 msgstr "Sokoto"
+
+#: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:1639
+#: includes/rest-api/Controllers/Version2/class-wc-rest-products-v2-controller.php:940
+#: includes/rest-api/Controllers/Version2/class-wc-rest-products-v2-controller.php:1571
+#: includes/rest-api/Controllers/Version3/class-wc-rest-posts-controller.php:151
+#: includes/rest-api/Controllers/Version3/class-wc-rest-posts-controller.php:258
+#: includes/rest-api/Controllers/Version3/class-wc-rest-products-controller.php:591
+msgid "To manipulate product variations you should use the /products/&lt;product_id&gt;/variations/&lt;id&gt; endpoint."
+msgstr "Pour manipuler les variations de produit, vous devez utiliser le point de terminaison /produits/&lt;product_id&gt;/variations/&lt;id&gt;."
 
 #: i18n/states.php:1403
 msgid "Rivers"
@@ -28478,7 +28478,7 @@ msgstr "#%s est un ID d’image non valide."
 
 #: includes/react-admin/connect-existing-pages.php:27
 #: src/Internal/Admin/Marketplace.php:71 src/Internal/Admin/Marketplace.php:72
-#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/2791.js:1
 #: assets/client/admin/chunks/marketplace.js:1
 msgid "Extensions"
 msgstr "Extensions"
@@ -28489,8 +28489,8 @@ msgstr "Extensions"
 msgid "Installed"
 msgstr "Installée"
 
-#: includes/admin/class-wc-admin-menus.php:218
-#: includes/admin/class-wc-admin-menus.php:228
+#: includes/admin/class-wc-admin-menus.php:217
+#: includes/admin/class-wc-admin-menus.php:227
 msgid "WooCommerce extensions"
 msgstr "Extensions de WooCommerce"
 
@@ -29387,7 +29387,7 @@ msgid "Zone"
 msgstr "Zone"
 
 #. translators: 1: plugin name, 2: URL to WP plugin page.
-#: includes/class-wc-install.php:2416
+#: includes/class-wc-install.php:2419
 msgid "%1$s was installed but could not be activated. <a href=\"%2$s\">Please activate it manually by clicking here.</a>"
 msgstr "%1$s a été installé mais ne peut pas être activé. <a href=\"%2$s\">Veuillez l&rsquo;activer manuellement en cliquant sur ici.</a>"
 
@@ -29403,7 +29403,7 @@ msgstr "Code postal."
 #. manually.
 #. translators: 1: theme slug, 2: error message, 3: URL to install theme
 #. manually.
-#: includes/class-wc-install.php:2388 includes/class-wc-install.php:2492
+#: includes/class-wc-install.php:2391 includes/class-wc-install.php:2495
 msgid "%1$s could not be installed (%2$s). <a href=\"%3$s\">Please install it manually by clicking here.</a>"
 msgstr "%1$s ne peut pas être installé (%2$s). <a href=\"%3$s\">Veuillez l&rsquo;installer manuellement en cliquant sur ici.</a>"
 
@@ -29790,16 +29790,6 @@ msgstr "Nom du terme."
 msgid "Number of published products for the resource."
 msgstr "Nombre de produits publiés pour la ressource."
 
-#: includes/rest-api/Controllers/Version1/class-wc-rest-product-attribute-terms-v1-controller.php:210
-#: includes/rest-api/Controllers/Version1/class-wc-rest-product-attributes-v1-controller.php:501
-#: includes/rest-api/Controllers/Version1/class-wc-rest-product-categories-v1-controller.php:188
-#: includes/rest-api/Controllers/Version1/class-wc-rest-product-shipping-classes-v1-controller.php:108
-#: includes/rest-api/Controllers/Version1/class-wc-rest-product-tags-v1-controller.php:108
-#: includes/rest-api/Controllers/Version2/class-wc-rest-product-categories-v2-controller.php:117
-#: includes/rest-api/Controllers/Version3/class-wc-rest-product-categories-controller.php:117
-msgid "An alphanumeric identifier for the resource unique to its type."
-msgstr "Un identifiant alphanumérique pour la ressource unique en son genre."
-
 #: includes/rest-api/Controllers/Version1/class-wc-rest-product-attributes-v1-controller.php:509
 msgid "Type of attribute."
 msgstr "Type d&rsquo;attribut."
@@ -29821,6 +29811,16 @@ msgstr "Activer/désactiver les archives d&rsquo;attribut."
 #: src/Admin/API/Reports/Categories/Controller.php:157
 msgid "Category name."
 msgstr "Nom de la catégorie."
+
+#: includes/rest-api/Controllers/Version1/class-wc-rest-product-attribute-terms-v1-controller.php:210
+#: includes/rest-api/Controllers/Version1/class-wc-rest-product-attributes-v1-controller.php:501
+#: includes/rest-api/Controllers/Version1/class-wc-rest-product-categories-v1-controller.php:188
+#: includes/rest-api/Controllers/Version1/class-wc-rest-product-shipping-classes-v1-controller.php:108
+#: includes/rest-api/Controllers/Version1/class-wc-rest-product-tags-v1-controller.php:108
+#: includes/rest-api/Controllers/Version2/class-wc-rest-product-categories-v2-controller.php:117
+#: includes/rest-api/Controllers/Version3/class-wc-rest-product-categories-controller.php:117
+msgid "An alphanumeric identifier for the resource unique to its type."
+msgstr "Un identifiant alphanumérique pour la ressource unique en son genre."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-product-attribute-terms-v1-controller.php:218
 #: includes/rest-api/Controllers/Version1/class-wc-rest-product-categories-v1-controller.php:201
@@ -30344,29 +30344,6 @@ msgstr "Ligne de total (après remises)."
 msgid "Meta key."
 msgstr "Clé de la méta."
 
-#: includes/rest-api/Controllers/Version1/class-wc-rest-order-refunds-v1-controller.php:522
-#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1677
-#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:2060
-msgid "Number of decimal points to use in each resource."
-msgstr "Nombre de décimales à utiliser dans chaque ressource."
-
-#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:539
-#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:798
-#: includes/rest-api/Controllers/Version3/class-wc-rest-orders-controller.php:262
-msgid "Customer ID is invalid."
-msgstr "L&rsquo;ID client est non valide."
-
-#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:723
-#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:995
-msgid "Fee name is required."
-msgstr "Le nom des frais est nécessaire."
-
-#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:747
-#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:1020
-#: includes/rest-api/Controllers/Version3/class-wc-rest-orders-controller.php:67
-msgid "Coupon code is required."
-msgstr "Le code promo est requis."
-
 #: includes/rest-api/Controllers/Version1/class-wc-rest-order-refunds-v1-controller.php:495
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1385
 #: includes/rest-api/Controllers/Version2/class-wc-rest-coupons-v2-controller.php:522
@@ -30390,6 +30367,29 @@ msgstr "Le code promo est requis."
 #: src/StoreApi/Schemas/V1/CartShippingRateSchema.php:199
 msgid "Meta value."
 msgstr "Valeur de la méta."
+
+#: includes/rest-api/Controllers/Version1/class-wc-rest-order-refunds-v1-controller.php:522
+#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1677
+#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:2060
+msgid "Number of decimal points to use in each resource."
+msgstr "Nombre de décimales à utiliser dans chaque ressource."
+
+#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:539
+#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:798
+#: includes/rest-api/Controllers/Version3/class-wc-rest-orders-controller.php:262
+msgid "Customer ID is invalid."
+msgstr "L&rsquo;ID client est non valide."
+
+#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:723
+#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:995
+msgid "Fee name is required."
+msgstr "Le nom des frais est nécessaire."
+
+#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:747
+#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:1020
+#: includes/rest-api/Controllers/Version3/class-wc-rest-orders-controller.php:67
+msgid "Coupon code is required."
+msgstr "Le code promo est requis."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:2585
 #: includes/rest-api/Controllers/Version2/class-wc-rest-products-v2-controller.php:2317
@@ -30961,20 +30961,6 @@ msgstr "Horodatage invalide."
 msgid "Invalid nonce - nonce has already been used."
 msgstr "Nonce invalide - Le nonce a déjà été utilisé."
 
-#: includes/rest-api/Controllers/Version1/class-wc-rest-coupons-v1-controller.php:110
-#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:105
-#: includes/rest-api/Controllers/Version1/class-wc-rest-product-reviews-v1-controller.php:118
-#: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:104
-#: includes/rest-api/Controllers/Version2/class-wc-rest-coupons-v2-controller.php:104
-#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:119
-#: includes/rest-api/Controllers/Version2/class-wc-rest-product-variations-v2-controller.php:109
-#: includes/rest-api/Controllers/Version2/class-wc-rest-products-v2-controller.php:117
-#: includes/rest-api/Controllers/Version2/class-wc-rest-shipping-zone-methods-v2-controller.php:87
-#: includes/rest-api/Controllers/Version2/class-wc-rest-shipping-zones-v2-controller.php:77
-#: includes/rest-api/Controllers/Version3/class-wc-rest-product-reviews-controller.php:110
-msgid "Whether to bypass trash and force deletion."
-msgstr "Si la corbeille doit être contournée et la suppression forcée."
-
 #: includes/rest-api/Controllers/Version1/class-wc-rest-coupons-v1-controller.php:256
 #: includes/rest-api/Controllers/Version2/class-wc-rest-coupons-v2-controller.php:275
 msgid "The coupon code cannot be empty."
@@ -30994,6 +30980,20 @@ msgstr "Identifiant unique pour l&rsquo;objet."
 #: src/Admin/API/Reports/Coupons/Controller.php:139
 msgid "Coupon code."
 msgstr "Code promo."
+
+#: includes/rest-api/Controllers/Version1/class-wc-rest-coupons-v1-controller.php:110
+#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:105
+#: includes/rest-api/Controllers/Version1/class-wc-rest-product-reviews-v1-controller.php:118
+#: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:104
+#: includes/rest-api/Controllers/Version2/class-wc-rest-coupons-v2-controller.php:104
+#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:119
+#: includes/rest-api/Controllers/Version2/class-wc-rest-product-variations-v2-controller.php:109
+#: includes/rest-api/Controllers/Version2/class-wc-rest-products-v2-controller.php:117
+#: includes/rest-api/Controllers/Version2/class-wc-rest-shipping-zone-methods-v2-controller.php:87
+#: includes/rest-api/Controllers/Version2/class-wc-rest-shipping-zones-v2-controller.php:77
+#: includes/rest-api/Controllers/Version3/class-wc-rest-product-reviews-controller.php:110
+msgid "Whether to bypass trash and force deletion."
+msgstr "Si la corbeille doit être contournée et la suppression forcée."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-coupons-v1-controller.php:429
 #: includes/rest-api/Controllers/Version2/class-wc-rest-coupons-v2-controller.php:360
@@ -31074,6 +31074,11 @@ msgstr "Clé de commande."
 msgid "File details."
 msgstr "Détails du fichier."
 
+#: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:385
+#: includes/rest-api/Controllers/Version1/class-wc-rest-taxes-v1-controller.php:402
+msgid "Cannot create existing resource."
+msgstr "Impossible de créer la ressource existante."
+
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customer-downloads-v1-controller.php:224
 #: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:1892
 #: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:2369
@@ -31097,11 +31102,6 @@ msgstr "Nom du fichier."
 #: src/Admin/API/Reports/Downloads/Controller.php:177
 msgid "File URL."
 msgstr "URL du fichier."
-
-#: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:385
-#: includes/rest-api/Controllers/Version1/class-wc-rest-taxes-v1-controller.php:402
-msgid "Cannot create existing resource."
-msgstr "Impossible de créer la ressource existante."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:529
 #: includes/rest-api/Controllers/Version1/class-wc-rest-tax-classes-v1-controller.php:223
@@ -31165,6 +31165,24 @@ msgstr "Adresse ligne 1."
 #: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1172
 msgid "Address line 2."
 msgstr "Adresse ligne 2."
+
+#: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:826
+#: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:889
+#: includes/rest-api/Controllers/Version2/class-wc-rest-customers-v2-controller.php:272
+#: includes/rest-api/Controllers/Version2/class-wc-rest-customers-v2-controller.php:335
+#: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:168
+#: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:231
+msgid "ISO code of the country."
+msgstr "Code ISO du pays."
+
+#: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:837
+#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1140
+#: includes/rest-api/Controllers/Version2/class-wc-rest-customers-v2-controller.php:283
+#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:1328
+#: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:179
+#: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:236
+msgid "Phone number."
+msgstr "Numéro de téléphone"
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-coupons-v1-controller.php:84
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customer-downloads-v1-controller.php:46
@@ -31329,24 +31347,6 @@ msgstr "Nom de la ville."
 msgid "ISO code or name of the state, province or district."
 msgstr "Code ISO ou nom de l&rsquo;état, province ou quartier."
 
-#: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:826
-#: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:889
-#: includes/rest-api/Controllers/Version2/class-wc-rest-customers-v2-controller.php:272
-#: includes/rest-api/Controllers/Version2/class-wc-rest-customers-v2-controller.php:335
-#: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:168
-#: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:231
-msgid "ISO code of the country."
-msgstr "Code ISO du pays."
-
-#: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:837
-#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1140
-#: includes/rest-api/Controllers/Version2/class-wc-rest-customers-v2-controller.php:283
-#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:1328
-#: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:179
-#: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:236
-msgid "Phone number."
-msgstr "Numéro de téléphone"
-
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:968
 msgid "Limit result set to resources with a specific email."
 msgstr "Limiter le jeu de résultats aux ressources avec un e-mail spécifique."
@@ -31359,20 +31359,6 @@ msgstr "Limiter le jeu de résultats aux ressources avec un rôle spécifique."
 #: includes/rest-api/Controllers/Version3/class-wc-rest-order-notes-controller.php:86
 msgid "Cannot create order note, please try again."
 msgstr "Impossible de créer une note de commande, veuillez essayer de nouveau."
-
-#: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:821
-#: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:884
-#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1124
-#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1187
-#: includes/rest-api/Controllers/Version2/class-wc-rest-customers-v2-controller.php:267
-#: includes/rest-api/Controllers/Version2/class-wc-rest-customers-v2-controller.php:330
-#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:1312
-#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:1375
-#: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:163
-#: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:226
-#: src/Admin/API/Reports/Customers/Controller.php:235
-msgid "Postal code."
-msgstr "Code postal."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-order-notes-v1-controller.php:295
 #: includes/rest-api/Controllers/Version1/class-wc-rest-webhooks-v1-controller.php:470
@@ -31392,6 +31378,20 @@ msgstr "Note de commande."
 #: includes/rest-api/Controllers/Version1/class-wc-rest-order-notes-v1-controller.php:418
 msgid "Shows/define if the note is only for reference or for the customer (the user will be notified)."
 msgstr "Indique/défini si la note est seulement pour référence ou à destination du client (l&rsquo;utilisateur sera notifié)."
+
+#: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:821
+#: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:884
+#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1124
+#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:1187
+#: includes/rest-api/Controllers/Version2/class-wc-rest-customers-v2-controller.php:267
+#: includes/rest-api/Controllers/Version2/class-wc-rest-customers-v2-controller.php:330
+#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:1312
+#: includes/rest-api/Controllers/Version2/class-wc-rest-orders-v2-controller.php:1375
+#: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:163
+#: includes/rest-api/Controllers/Version3/class-wc-rest-customers-controller.php:226
+#: src/Admin/API/Reports/Customers/Controller.php:235
+msgid "Postal code."
+msgstr "Code postal."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-order-refunds-v1-controller.php:287
 msgid "Order is invalid"
@@ -31685,7 +31685,7 @@ msgstr "Exigences de WordPress"
 #: includes/wc-template-functions.php:1085
 #: src/Internal/Admin/Notes/UnsecuredReportFiles.php:57
 #: src/Internal/Admin/WCPayPromotion/WCPaymentGatewayPreInstallWCPayPromotion.php:81
-#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/2791.js:1
 #: assets/client/admin/chunks/marketplace.js:1
 #: assets/client/admin/chunks/multichannel-marketing.js:1
 #: assets/client/admin/chunks/settings-payments-main.js:1
@@ -31768,6 +31768,22 @@ msgstr "Echec de la modification. Veuillez essayer à nouveau."
 msgid "This option determines a customers default location. The MaxMind GeoLite Database will be periodically downloaded to your wp-content directory if using geolocation."
 msgstr "Cette option détermine un emplacement par défaut des clients. La base de données GeoLite de MaxMind sera périodiquement téléchargée dans votre répertoire wp-content si vous utilisez la géolocalisation."
 
+#: includes/admin/settings/class-wc-settings-general.php:184
+msgid "No location by default"
+msgstr "Aucun emplacement par défaut"
+
+#: includes/customizer/class-wc-shop-customizer.php:446
+msgid "Show categories"
+msgstr "Afficher les catégories"
+
+#: includes/customizer/class-wc-shop-customizer.php:447
+msgid "Show categories &amp; products"
+msgstr "Afficher les catégories et les produits"
+
+#: includes/customizer/class-wc-shop-customizer.php:473
+msgid "Show subcategories &amp; products"
+msgstr "Afficher les sous-catégories et les produits"
+
 #: includes/admin/importers/class-wc-product-csv-importer-controller.php:864
 #: includes/admin/settings/class-wc-settings-advanced.php:271
 #: includes/admin/views/html-admin-page-product-export.php:40
@@ -31786,22 +31802,6 @@ msgstr "Cette option détermine un emplacement par défaut des clients. La base 
 #: assets/client/blocks/order-confirmation-downloads-wrapper.js:1
 msgid "Downloads"
 msgstr "Téléchargements"
-
-#: includes/admin/settings/class-wc-settings-general.php:184
-msgid "No location by default"
-msgstr "Aucun emplacement par défaut"
-
-#: includes/customizer/class-wc-shop-customizer.php:446
-msgid "Show categories"
-msgstr "Afficher les catégories"
-
-#: includes/customizer/class-wc-shop-customizer.php:447
-msgid "Show categories &amp; products"
-msgstr "Afficher les catégories et les produits"
-
-#: includes/customizer/class-wc-shop-customizer.php:473
-msgid "Show subcategories &amp; products"
-msgstr "Afficher les sous-catégories et les produits"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:125
 msgid "Calculations"
@@ -32038,6 +32038,15 @@ msgstr "Accepte les paiements par PayPal en utilisant le solde du compte ou la c
 msgid "Sorry, you cannot list resources."
 msgstr "Désolé, vous ne pouvez pas lister les ressources."
 
+#. translators: %s: post type
+#: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:1658
+#: includes/rest-api/Controllers/Version2/class-wc-rest-product-variations-v2-controller.php:565
+#: includes/rest-api/Controllers/Version2/class-wc-rest-products-v2-controller.php:1594
+#: includes/rest-api/Controllers/Version3/class-wc-rest-crud-controller.php:478
+#: includes/rest-api/Controllers/Version3/class-wc-rest-posts-controller.php:438
+msgid "Sorry, you are not allowed to delete %s."
+msgstr "Désolé, vous n&rsquo;êtes pas autorisé à supprimer %s."
+
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:168
 #: includes/rest-api/Controllers/Version1/class-wc-rest-order-notes-v1-controller.php:136
 #: includes/rest-api/Controllers/Version1/class-wc-rest-product-reviews-v1-controller.php:167
@@ -32103,15 +32112,6 @@ msgid "Sorry, you are not allowed to delete this resource."
 msgstr "Désolé, vous n&rsquo;êtes pas autorisé à supprimer cette ressource."
 
 #. translators: %s: post type
-#: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:1658
-#: includes/rest-api/Controllers/Version2/class-wc-rest-product-variations-v2-controller.php:565
-#: includes/rest-api/Controllers/Version2/class-wc-rest-products-v2-controller.php:1594
-#: includes/rest-api/Controllers/Version3/class-wc-rest-crud-controller.php:478
-#: includes/rest-api/Controllers/Version3/class-wc-rest-posts-controller.php:438
-msgid "Sorry, you are not allowed to delete %s."
-msgstr "Désolé, vous n&rsquo;êtes pas autorisé à supprimer %s."
-
-#. translators: %s: post type
 #: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:1690
 #: includes/rest-api/Controllers/Version2/class-wc-rest-product-variations-v2-controller.php:583
 #: includes/rest-api/Controllers/Version2/class-wc-rest-products-v2-controller.php:1632
@@ -32128,19 +32128,6 @@ msgstr "%s ne supporte pas la mise à la corbeille."
 #: includes/rest-api/Controllers/Version3/class-wc-rest-posts-controller.php:457
 msgid "The %s has already been deleted."
 msgstr "Ce %s a déjà été supprimé."
-
-#. translators: %s: post type
-#: includes/rest-api/Controllers/Version1/class-wc-rest-coupons-v1-controller.php:313
-#: includes/rest-api/Controllers/Version1/class-wc-rest-order-notes-v1-controller.php:220
-#: includes/rest-api/Controllers/Version1/class-wc-rest-order-refunds-v1-controller.php:281
-#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:834
-#: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:741
-#: includes/rest-api/Controllers/Version1/class-wc-rest-webhooks-v1-controller.php:333
-#: includes/rest-api/Controllers/Version3/class-wc-rest-crud-controller.php:202
-#: includes/rest-api/Controllers/Version3/class-wc-rest-order-notes-controller.php:73
-#: includes/rest-api/Controllers/Version3/class-wc-rest-posts-controller.php:175
-msgid "Cannot create existing %s."
-msgstr "Impossible de créer le %s existant."
 
 #. translators: %s: post type
 #: includes/rest-api/Controllers/Version1/class-wc-rest-order-notes-v1-controller.php:316
@@ -32162,6 +32149,19 @@ msgstr "Le %s ne peut être supprimé."
 #: src/Admin/API/Reports/PerformanceIndicators/Controller.php:660
 msgid "Limit response to resources published after a given ISO8601 compliant date."
 msgstr "Limiter les réponses aux ressources publiées après une certaine date conforme ISO8601."
+
+#. translators: %s: post type
+#: includes/rest-api/Controllers/Version1/class-wc-rest-coupons-v1-controller.php:313
+#: includes/rest-api/Controllers/Version1/class-wc-rest-order-notes-v1-controller.php:220
+#: includes/rest-api/Controllers/Version1/class-wc-rest-order-refunds-v1-controller.php:281
+#: includes/rest-api/Controllers/Version1/class-wc-rest-orders-v1-controller.php:834
+#: includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php:741
+#: includes/rest-api/Controllers/Version1/class-wc-rest-webhooks-v1-controller.php:333
+#: includes/rest-api/Controllers/Version3/class-wc-rest-crud-controller.php:202
+#: includes/rest-api/Controllers/Version3/class-wc-rest-order-notes-controller.php:73
+#: includes/rest-api/Controllers/Version3/class-wc-rest-posts-controller.php:175
+msgid "Cannot create existing %s."
+msgstr "Impossible de créer le %s existant."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-webhooks-v1-controller.php:720
 #: includes/rest-api/Controllers/Version3/class-wc-rest-crud-controller.php:602
@@ -32207,6 +32207,20 @@ msgstr "Compenser le jeu de résultats par un nombre spécifique d&rsquo;article
 msgid "Order sort attribute ascending or descending."
 msgstr "Attribut de tri de commande croissant ou décroissant."
 
+#: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:104
+#: includes/rest-api/Controllers/Version1/class-wc-rest-order-notes-v1-controller.php:105
+#: includes/rest-api/Controllers/Version1/class-wc-rest-order-refunds-v1-controller.php:107
+#: includes/rest-api/Controllers/Version1/class-wc-rest-product-attribute-terms-v1-controller.php:105
+#: includes/rest-api/Controllers/Version1/class-wc-rest-product-attributes-v1-controller.php:116
+#: includes/rest-api/Controllers/Version1/class-wc-rest-tax-classes-v1-controller.php:79
+#: includes/rest-api/Controllers/Version1/class-wc-rest-taxes-v1-controller.php:93
+#: includes/rest-api/Controllers/Version1/class-wc-rest-webhooks-v1-controller.php:114
+#: includes/rest-api/Controllers/Version2/class-wc-rest-order-refunds-v2-controller.php:118
+#: includes/rest-api/Controllers/Version2/class-wc-rest-tax-classes-v2-controller.php:75
+#: includes/rest-api/Controllers/Version3/class-wc-rest-terms-controller.php:106
+msgid "Required to be true, as resource does not support trashing."
+msgstr "Requiert d&rsquo;être vrai, car la ressource ne supporte pas la mise à la corbeille."
+
 #: includes/rest-api/Controllers/Version1/class-wc-rest-product-attributes-v1-controller.php:161
 msgid "Sorry, you cannot create new resource."
 msgstr "Désolé, vous ne pouvez pas créer de nouvelles ressources."
@@ -32225,20 +32239,6 @@ msgstr "Impossible de définir le parent de la ressource, la taxinomie n&rsquo;e
 #: includes/rest-api/Controllers/Version3/class-wc-rest-terms-controller.php:548
 msgid "Resource does not support trashing."
 msgstr "La ressource ne supporte pas la mise à la corbeille."
-
-#: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:104
-#: includes/rest-api/Controllers/Version1/class-wc-rest-order-notes-v1-controller.php:105
-#: includes/rest-api/Controllers/Version1/class-wc-rest-order-refunds-v1-controller.php:107
-#: includes/rest-api/Controllers/Version1/class-wc-rest-product-attribute-terms-v1-controller.php:105
-#: includes/rest-api/Controllers/Version1/class-wc-rest-product-attributes-v1-controller.php:116
-#: includes/rest-api/Controllers/Version1/class-wc-rest-tax-classes-v1-controller.php:79
-#: includes/rest-api/Controllers/Version1/class-wc-rest-taxes-v1-controller.php:93
-#: includes/rest-api/Controllers/Version1/class-wc-rest-webhooks-v1-controller.php:114
-#: includes/rest-api/Controllers/Version2/class-wc-rest-order-refunds-v2-controller.php:118
-#: includes/rest-api/Controllers/Version2/class-wc-rest-tax-classes-v2-controller.php:75
-#: includes/rest-api/Controllers/Version3/class-wc-rest-terms-controller.php:106
-msgid "Required to be true, as resource does not support trashing."
-msgstr "Requiert d&rsquo;être vrai, car la ressource ne supporte pas la mise à la corbeille."
 
 #: includes/rest-api/Controllers/Version1/class-wc-rest-customers-v1-controller.php:553
 #: includes/rest-api/Controllers/Version1/class-wc-rest-product-attributes-v1-controller.php:403
@@ -32315,7 +32315,7 @@ msgstr "Enregistrer sur le compte"
 msgid "Ready to start selling something awesome?"
 msgstr "Prêt à commencer à vendre quelque chose de génial ?"
 
-#: includes/admin/class-wc-admin-assets.php:433
+#: includes/admin/class-wc-admin-assets.php:427
 msgid "Are you sure you wish to delete this note? This action cannot be undone."
 msgstr "Êtes-vous certain de vouloir supprimer cette note ? Cette action est irréversible."
 
@@ -32438,7 +32438,7 @@ msgstr "Amérique du Sud"
 msgid "United States (US) Minor Outlying Islands"
 msgstr "Îles Mineures éloignées des États-Unis"
 
-#: includes/admin/class-wc-admin-assets.php:504
+#: includes/admin/class-wc-admin-assets.php:498
 #: includes/admin/views/html-admin-page-status-report.php:73
 msgid "Copying to clipboard failed. Please press Ctrl/Cmd+C to copy."
 msgstr "La copie dans la presse papier a échoué. Veuillez presser Ctrl/Cmd+C pour copier."
@@ -32635,50 +32635,50 @@ msgstr "Chargement&hellip;"
 msgid "\"%s\" tax rates"
 msgstr "Taux de taxe « %s »"
 
-#: includes/admin/settings/class-wc-settings-emails.php:593
+#: includes/admin/settings/class-wc-settings-emails.php:592
 msgid "Manual"
 msgstr "Manuel"
 
-#: includes/admin/settings/class-wc-settings-emails.php:593
+#: includes/admin/settings/class-wc-settings-emails.php:592
 msgid "Manually sent"
 msgstr "Envoyé manuellement"
 
 #. translators: %s: Nonced email preview link
-#: includes/admin/settings/class-wc-settings-emails.php:91
+#: includes/admin/settings/class-wc-settings-emails.php:90
 msgid "This section lets you customize the WooCommerce emails. <a href=\"%s\" target=\"_blank\">Click here to preview your email template</a>."
 msgstr "Cette section vous permet de personnaliser les e-mails WooCommerce. <a href=\"%s\" target=\"_blank\">Cliquez ici pour prévisualiser votre modèle d&rsquo;e-mail</a>."
 
-#: includes/admin/settings/class-wc-settings-emails.php:559
+#: includes/admin/settings/class-wc-settings-emails.php:558
 msgid "Content type"
 msgstr "Type de contenu"
 
-#: includes/admin/settings/class-wc-settings-emails.php:131
+#: includes/admin/settings/class-wc-settings-emails.php:130
 msgid "Body text color"
 msgstr "Couleur du corps de texte"
 
-#: includes/admin/settings/class-wc-settings-emails.php:127
+#: includes/admin/settings/class-wc-settings-emails.php:126
 msgid "Body background color"
 msgstr "Couleur de fond du body"
 
-#: includes/admin/settings/class-wc-settings-emails.php:364
+#: includes/admin/settings/class-wc-settings-emails.php:363
 msgid "Footer text"
 msgstr "Texte de pied de page"
 
-#: includes/admin/settings/class-wc-settings-emails.php:324
+#: includes/admin/settings/class-wc-settings-emails.php:323
 msgid "\"From\" address"
 msgstr "Adresse de l’expéditeur"
 
 #. translators: %s: help description with link to WP Mail logging and support
 #. page.
-#: includes/admin/settings/class-wc-settings-emails.php:288
+#: includes/admin/settings/class-wc-settings-emails.php:287
 msgid "Email notifications sent from WooCommerce are listed below. Click on an email to configure it.<br>%s"
 msgstr "Les notifications par e-mail envoyées par WooCommerce sont listées ci-dessous. Cliquez sur un e-mail pour le configurer.<br>%s"
 
-#: includes/admin/settings/class-wc-settings-emails.php:94
+#: includes/admin/settings/class-wc-settings-emails.php:93
 msgid "Paste the URL of an image you want to show in the email header. Upload images using the media uploader (Media > Add New)."
 msgstr "Coller l’URL d’une image que vous souhaitez afficher dans l’entête de l’e-mail. Mettez en ligne les images depuis l’outil de mise en ligne des médias (Administration > Médias)."
 
-#: includes/admin/settings/class-wc-settings-emails.php:286
+#: includes/admin/settings/class-wc-settings-emails.php:285
 msgid "Email notifications"
 msgstr "Notifications par e-mail"
 
@@ -32793,7 +32793,7 @@ msgstr "Achetez maintenant"
 msgid "Show more details"
 msgstr "Afficher plus de détails"
 
-#: includes/class-wc-install.php:778
+#: includes/class-wc-install.php:781
 msgid "Monthly"
 msgstr "Mensuellement"
 
@@ -33136,7 +33136,7 @@ msgstr "Active"
 msgid "Paused"
 msgstr "En pause"
 
-#: includes/admin/settings/class-wc-settings-emails.php:597
+#: includes/admin/settings/class-wc-settings-emails.php:596
 #: includes/wc-webhook-functions.php:152
 #: src/Internal/ProductDownloads/ApprovedDirectories/Admin/Table.php:203
 msgid "Disabled"
@@ -33279,7 +33279,7 @@ msgstr "Connecté en tant que %s"
 #: src/Internal/Admin/ProductReviews/ReviewsListTable.php:465
 #: src/Internal/Admin/ProductReviews/ReviewsListTable.php:474
 #: src/Internal/Admin/ProductReviews/ReviewsListTable.php:676
-#: templates/auth/form-grant-access.php:64 assets/client/admin/chunks/9001.js:1
+#: templates/auth/form-grant-access.php:64 assets/client/admin/chunks/2791.js:1
 msgid "Approve"
 msgstr "Approuver"
 
@@ -33691,7 +33691,7 @@ msgstr "Mettre à jour le panier"
 msgid "Apply coupon"
 msgstr "Appliquer le code promo"
 
-#: templates/auth/header.php:40
+#: templates/auth/header.php:27
 msgid "Application authentication request"
 msgstr "Requête d&rsquo;authentification d&rsquo;application"
 
@@ -33967,18 +33967,6 @@ msgstr[1] "%1$d résultats affichés"
 msgid "Show hidden products"
 msgstr "Afficher les produits masqués"
 
-#: includes/admin/class-wc-admin-profile.php:90
-#: includes/admin/class-wc-admin-setup-wizard.php:2242
-#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:98
-#: includes/class-wc-countries.php:1719 includes/class-wc-form-handler.php:283
-#: src/Blocks/BlockTypes/OrderConfirmation/Status.php:259
-#: src/Blocks/Domain/Services/CheckoutFields.php:503
-#: templates/checkout/form-verify-email.php:44
-#: templates/myaccount/form-edit-account.php:43
-#: templates/myaccount/form-login.php:86
-msgid "Email address"
-msgstr "E-mail"
-
 #: templates/auth/form-login.php:40 templates/myaccount/form-login.php:39
 msgid "Username or email address"
 msgstr "Identifiant ou e-mail"
@@ -34010,6 +33998,18 @@ msgstr "Désolé, il semble qu’il n’y ait aucun moyen de paiement disponible
 #: assets/client/blocks/stock-filter.js:8
 msgid "Dropdown"
 msgstr "Menu déroulant"
+
+#: includes/admin/class-wc-admin-profile.php:90
+#: includes/admin/class-wc-admin-setup-wizard.php:2242
+#: includes/admin/meta-boxes/class-wc-meta-box-order-data.php:98
+#: includes/class-wc-countries.php:1719 includes/class-wc-form-handler.php:283
+#: src/Blocks/BlockTypes/OrderConfirmation/Status.php:259
+#: src/Blocks/Domain/Services/CheckoutFields.php:503
+#: templates/checkout/form-verify-email.php:44
+#: templates/myaccount/form-edit-account.php:43
+#: templates/myaccount/form-login.php:86
+msgid "Email address"
+msgstr "Adresse e-mail"
 
 #. translators: %s: number of orders
 #. translators: %s: count
@@ -34043,7 +34043,7 @@ msgstr "Commande annulée"
 msgid "Enable/Disable"
 msgstr "Activer/Désactiver"
 
-#: includes/admin/settings/class-wc-settings-emails.php:560
+#: includes/admin/settings/class-wc-settings-emails.php:559
 #: includes/emails/class-wc-email-cancelled-order.php:161
 #: includes/emails/class-wc-email-failed-order.php:159
 #: includes/emails/class-wc-email-new-order.php:184
@@ -34155,30 +34155,6 @@ msgstr "Fichier non trouvé."
 msgid "View template"
 msgstr "Voir le modèle"
 
-#: includes/admin/importers/mappings/generic.php:21
-#: includes/admin/settings/views/html-admin-page-shipping-zone-methods.php:81
-#: includes/gateways/bacs/class-wc-gateway-bacs.php:104
-#: includes/gateways/cheque/class-wc-gateway-cheque.php:73
-#: includes/gateways/cod/class-wc-gateway-cod.php:99
-#: includes/gateways/paypal/includes/settings-paypal.php:20
-#: includes/shipping/legacy-local-delivery/class-wc-shipping-legacy-local-delivery.php:138
-#: includes/shipping/legacy-local-pickup/class-wc-shipping-legacy-local-pickup.php:109
-#: includes/widgets/class-wc-widget-cart.php:30
-#: includes/widgets/class-wc-widget-layered-nav-filters.php:28
-#: includes/widgets/class-wc-widget-layered-nav.php:77
-#: includes/widgets/class-wc-widget-price-filter.php:32
-#: includes/widgets/class-wc-widget-product-categories.php:44
-#: includes/widgets/class-wc-widget-product-search.php:28
-#: includes/widgets/class-wc-widget-product-tag-cloud.php:30
-#: includes/widgets/class-wc-widget-products.php:28
-#: includes/widgets/class-wc-widget-rating-filter.php:28
-#: includes/widgets/class-wc-widget-recent-reviews.php:28
-#: includes/widgets/class-wc-widget-recently-viewed.php:28
-#: includes/widgets/class-wc-widget-top-rated-products.php:29
-#: assets/client/blocks/wc-shipping-method-pickup-location.js:83
-msgid "Title"
-msgstr "Titre"
-
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:106
 #: includes/gateways/cheque/class-wc-gateway-cheque.php:75
 #: includes/gateways/paypal/includes/settings-paypal.php:22
@@ -34206,6 +34182,30 @@ msgstr "IBAN"
 #: assets/client/admin/app/index.js:2
 msgid "BIC / Swift"
 msgstr "BIC / Swift"
+
+#: includes/admin/importers/mappings/generic.php:21
+#: includes/admin/settings/views/html-admin-page-shipping-zone-methods.php:81
+#: includes/gateways/bacs/class-wc-gateway-bacs.php:104
+#: includes/gateways/cheque/class-wc-gateway-cheque.php:73
+#: includes/gateways/cod/class-wc-gateway-cod.php:99
+#: includes/gateways/paypal/includes/settings-paypal.php:20
+#: includes/shipping/legacy-local-delivery/class-wc-shipping-legacy-local-delivery.php:138
+#: includes/shipping/legacy-local-pickup/class-wc-shipping-legacy-local-pickup.php:109
+#: includes/widgets/class-wc-widget-cart.php:30
+#: includes/widgets/class-wc-widget-layered-nav-filters.php:28
+#: includes/widgets/class-wc-widget-layered-nav.php:77
+#: includes/widgets/class-wc-widget-price-filter.php:32
+#: includes/widgets/class-wc-widget-product-categories.php:44
+#: includes/widgets/class-wc-widget-product-search.php:28
+#: includes/widgets/class-wc-widget-product-tag-cloud.php:30
+#: includes/widgets/class-wc-widget-products.php:28
+#: includes/widgets/class-wc-widget-rating-filter.php:28
+#: includes/widgets/class-wc-widget-recent-reviews.php:28
+#: includes/widgets/class-wc-widget-recently-viewed.php:28
+#: includes/widgets/class-wc-widget-top-rated-products.php:29
+#: assets/client/blocks/wc-shipping-method-pickup-location.js:83
+msgid "Title"
+msgstr "Titre"
 
 #: includes/gateways/bacs/class-wc-gateway-bacs.php:190
 msgid "Remove selected account(s)"
@@ -35245,17 +35245,17 @@ msgid_plural "Refunded <span class=\"count\">(%s)</span>"
 msgstr[0] "Remboursée <span class=\"count\">(%s)</span>"
 msgstr[1] "Remboursées <span class=\"count\">(%s)</span>"
 
-#: includes/class-wc-install.php:897
+#: includes/class-wc-install.php:900
 msgctxt "Page slug"
 msgid "shop"
 msgstr "boutique"
 
-#: includes/class-wc-install.php:902
+#: includes/class-wc-install.php:905
 msgctxt "Page slug"
 msgid "cart"
 msgstr "panier"
 
-#: includes/class-wc-install.php:912
+#: includes/class-wc-install.php:915
 msgctxt "Page slug"
 msgid "my-account"
 msgstr "mon-compte"
@@ -35579,15 +35579,15 @@ msgstr "Nouveau produit"
 msgid "Add new product"
 msgstr "Ajouter un nouveau produit"
 
-#: includes/class-wc-install.php:2260
+#: includes/class-wc-install.php:2263
 msgid "Premium support"
 msgstr "Support premium"
 
-#: includes/class-wc-install.php:2254
+#: includes/class-wc-install.php:2257
 msgid "View WooCommerce documentation"
 msgstr "Voir la documentation WooCommerce"
 
-#: includes/class-wc-install.php:2206
+#: includes/class-wc-install.php:2209
 msgid "View WooCommerce settings"
 msgstr "Voir les réglages WooCommerce"
 
@@ -35681,11 +35681,11 @@ msgstr "Ignorer cette notification."
 msgid "This is where store orders are stored."
 msgstr "C’est là où sont stockées les commandes de la boutique."
 
-#: includes/class-wc-install.php:2255
+#: includes/class-wc-install.php:2258
 msgid "API docs"
 msgstr "Documentations de l’API"
 
-#: includes/class-wc-install.php:2255
+#: includes/class-wc-install.php:2258
 msgid "View WooCommerce API docs"
 msgstr "Voir les documentations de l’API WooCommerce"
 
@@ -35824,7 +35824,7 @@ msgstr "Ajouter une commande"
 #. translators: %s number of products in cart.
 #. translators: %d is the count of products.
 #: src/Blocks/BlockTypes/ProductCategories.php:393
-#: assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/chunks/2791.js:1
 #: assets/client/blocks/featured-category.js:13
 #: assets/client/blocks/featured-product.js:13
 #: assets/client/blocks/product-best-sellers.js:12
@@ -35841,7 +35841,7 @@ msgid_plural "%d products"
 msgstr[0] "%d produit"
 msgstr[1] "%d produits"
 
-#: includes/class-wc-install.php:907
+#: includes/class-wc-install.php:910
 msgctxt "Page slug"
 msgid "checkout"
 msgstr "commander"
@@ -36795,7 +36795,7 @@ msgid "Itemized"
 msgstr "Détaillé"
 
 #: src/Internal/Admin/Marketing.php:75 src/Internal/Admin/Marketing.php:76
-#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/2791.js:1
 msgid "Marketing"
 msgstr "Marketing"
 
@@ -36819,7 +36819,7 @@ msgstr "Gratuit"
 msgid "When applying multiple coupons, apply the first coupon to the full price and the second coupon to the discounted price and so on."
 msgstr "Lors de l&rsquo;application de codes promo, appliquer le premier code promo au plein tarif, le deuxième code promo au tarif remisé et ainsi de suite."
 
-#: includes/admin/settings/class-wc-settings-emails.php:46
+#: includes/admin/settings/class-wc-settings-emails.php:45
 msgid "Emails"
 msgstr "E-mails"
 
@@ -37061,7 +37061,7 @@ msgstr "Page boutique"
 msgid "Sell to all countries"
 msgstr "Vendre dans tous les pays"
 
-#: includes/admin/settings/class-wc-settings-emails.php:119
+#: includes/admin/settings/class-wc-settings-emails.php:118
 msgid "Base color"
 msgstr "Couleur de base"
 
@@ -37176,11 +37176,11 @@ msgstr "Les options suivantes déterminent la manière dont les prix sont affich
 msgid "Shop page display"
 msgstr "Affichage de la page boutique"
 
-#: includes/admin/settings/class-wc-settings-emails.php:343
+#: includes/admin/settings/class-wc-settings-emails.php:342
 msgid "Email template"
 msgstr "Modèle d’e-mail"
 
-#: includes/admin/settings/class-wc-settings-emails.php:123
+#: includes/admin/settings/class-wc-settings-emails.php:122
 msgid "Background color"
 msgstr "Couleur d’arrière plan"
 
@@ -37200,15 +37200,15 @@ msgstr "Points de terminaisons de validation de commande"
 msgid "If you define a \"Terms\" page the customer will be asked if they accept them when checking out."
 msgstr "Si vous définissez une page « Conditions Générales de Vente », il sera demandé au client de les accepter lors de la validation de commande."
 
-#: includes/admin/settings/class-wc-settings-emails.php:313
+#: includes/admin/settings/class-wc-settings-emails.php:312
 msgid "\"From\" name"
 msgstr "Nom d’expéditeur"
 
-#: includes/admin/settings/class-wc-settings-emails.php:73
+#: includes/admin/settings/class-wc-settings-emails.php:72
 msgid "Email options"
 msgstr "Options d’e-mail"
 
-#: includes/admin/settings/class-wc-settings-emails.php:306
+#: includes/admin/settings/class-wc-settings-emails.php:305
 msgid "Email sender options"
 msgstr "Options d’e-mail de l’expéditeur"
 
@@ -37229,11 +37229,11 @@ msgid "Product ratings"
 msgstr "Notes sur les produits"
 
 #. translators: %s: Available placeholders for use
-#: includes/admin/settings/class-wc-settings-emails.php:107
+#: includes/admin/settings/class-wc-settings-emails.php:106
 msgid "The text to appear in the footer of all WooCommerce emails."
 msgstr "Le texte à afficher dans le pied de page de tous les e-mails WooCommerce."
 
-#: includes/admin/settings/class-wc-settings-emails.php:93
+#: includes/admin/settings/class-wc-settings-emails.php:92
 msgid "Header image"
 msgstr "Image d’en-tête"
 
@@ -37454,18 +37454,9 @@ msgstr "Hauteur"
 #: includes/admin/meta-boxes/views/html-product-data-attributes.php:59
 #: includes/admin/meta-boxes/views/html-product-data-variations.php:122
 #: includes/admin/meta-boxes/views/html-product-data-variations.php:172
-#: assets/client/admin/chunks/multichannel-marketing.js:1
-#: assets/client/admin/components/index.js:2
-msgid "Expand"
-msgstr "Développer"
-
-#: includes/admin/meta-boxes/views/html-product-data-attributes.php:32
-#: includes/admin/meta-boxes/views/html-product-data-attributes.php:59
-#: includes/admin/meta-boxes/views/html-product-data-variations.php:122
-#: includes/admin/meta-boxes/views/html-product-data-variations.php:172
 #: src/Blocks/BlockTypes/ProductFilters.php:117
-#: assets/client/admin/chunks/2727.js:2 assets/client/admin/chunks/8656.js:1
-#: assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/chunks/2727.js:2 assets/client/admin/chunks/2791.js:1
+#: assets/client/admin/chunks/8656.js:1
 #: assets/client/admin/chunks/customize-store.js:1
 #: assets/client/admin/chunks/launch-store.js:1
 #: assets/client/admin/components/index.js:2
@@ -37484,7 +37475,7 @@ msgstr "Ordre du menu"
 msgid "Custom ordering position."
 msgstr "Ordre personnalisé."
 
-#: includes/admin/class-wc-admin-assets.php:262
+#: includes/admin/class-wc-admin-assets.php:256
 #: includes/admin/meta-boxes/views/html-product-data-advanced.php:47
 #: includes/admin/settings/class-wc-settings-products.php:167
 msgid "Enable reviews"
@@ -37656,7 +37647,7 @@ msgid "Refund amount"
 msgstr "Montant du remboursement"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:405
-#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/2791.js:1
 #: assets/client/admin/product-editor/blocks/product-fields/product-list/edit.js:1
 #: assets/client/admin/product-editor/index.js:2
 msgid "Add products"
@@ -37709,7 +37700,7 @@ msgid "Remove this image"
 msgstr "Supprimer cette image"
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:113
-#: includes/admin/settings/class-wc-settings-emails.php:595
+#: includes/admin/settings/class-wc-settings-emails.php:594
 #: includes/admin/settings/class-wc-settings-payment-gateways.php:140
 #: includes/admin/settings/views/html-admin-page-shipping-zone-methods.php:82
 #: includes/admin/views/html-admin-page-status-report.php:795
@@ -37781,11 +37772,27 @@ msgstr "Nombre de codes promo utilisés"
 msgid "Discount amount"
 msgstr "Montant de remise"
 
-#: includes/admin/settings/class-wc-settings-emails.php:586
+#: includes/admin/settings/class-wc-settings-emails.php:585
 #: src/Admin/API/Reports/Orders/Controller.php:466
 #: assets/client/admin/chunks/analytics-report-orders.js:1
 msgid "Customer"
 msgstr "Client"
+
+#: includes/admin/reports/class-wc-report-customer-list.php:42
+msgid "No customers found."
+msgstr "Aucun client."
+
+#. translators: single or plural number of orders
+#: includes/admin/reports/class-wc-report-customer-list.php:56
+msgid "%s previous order linked"
+msgid_plural "%s previous orders linked"
+msgstr[0] "%s commande précédente liée"
+msgstr[1] "%s commandes précédentes liées"
+
+#. translators: User display name
+#: includes/admin/reports/class-wc-report-customer-list.php:67
+msgid "Refreshed stats for %s"
+msgstr "Rafraichir les statistiques pour %s"
 
 #: includes/admin/reports/class-wc-report-coupon-usage.php:216
 #: includes/admin/reports/class-wc-report-sales-by-category.php:231
@@ -37804,22 +37811,6 @@ msgstr "Client"
 #: assets/client/admin/chunks/dashboard-charts.js:1
 msgid "Show"
 msgstr "Afficher"
-
-#: includes/admin/reports/class-wc-report-customer-list.php:42
-msgid "No customers found."
-msgstr "Aucun client."
-
-#. translators: single or plural number of orders
-#: includes/admin/reports/class-wc-report-customer-list.php:56
-msgid "%s previous order linked"
-msgid_plural "%s previous orders linked"
-msgstr[0] "%s commande précédente liée"
-msgstr[1] "%s commandes précédentes liées"
-
-#. translators: User display name
-#: includes/admin/reports/class-wc-report-customer-list.php:67
-msgid "Refreshed stats for %s"
-msgstr "Rafraichir les statistiques pour %s"
 
 #: includes/admin/reports/class-wc-report-customer-list.php:157
 msgid "Refresh stats"
@@ -37886,6 +37877,23 @@ msgstr "Aucun produit en rupture."
 msgid "None"
 msgstr "Aucun"
 
+#: includes/admin/helper/class-wc-helper.php:385
+#: includes/admin/reports/class-wc-report-sales-by-category.php:230
+#: includes/widgets/class-wc-widget-brand-thumbnails.php:210
+#: src/Internal/Admin/Orders/ListTable.php:581
+#: src/Internal/Admin/Orders/ListTable.php:1697
+#: src/Internal/Features/FeaturesController.php:1391
+#: assets/client/admin/chunks/analytics-report-orders.js:1
+#: assets/client/admin/chunks/dashboard-charts.js:1
+#: assets/client/admin/components/index.js:2
+#: assets/client/blocks/active-filters-frontend.js:5
+#: assets/client/blocks/active-filters-wrapper-frontend.js:5
+#: assets/client/blocks/active-filters.js:5
+#: assets/client/blocks/attribute-filter.js:18
+#: assets/client/blocks/product-filter-attribute.js:1
+msgid "All"
+msgstr "Tout"
+
 #. translators: %s: total orders
 #: includes/admin/reports/class-wc-report-sales-by-date.php:525
 msgid "%s orders placed"
@@ -37926,23 +37934,6 @@ msgstr "%s ventes pour les articles sélectionnés"
 #: includes/admin/reports/class-wc-report-sales-by-product.php:130
 msgid "%s purchases for the selected items"
 msgstr "%s achats pour les articles sélectionnés"
-
-#: includes/admin/helper/class-wc-helper.php:385
-#: includes/admin/reports/class-wc-report-sales-by-category.php:230
-#: includes/widgets/class-wc-widget-brand-thumbnails.php:210
-#: src/Internal/Admin/Orders/ListTable.php:581
-#: src/Internal/Admin/Orders/ListTable.php:1697
-#: src/Internal/Features/FeaturesController.php:1391
-#: assets/client/admin/chunks/analytics-report-orders.js:1
-#: assets/client/admin/chunks/dashboard-charts.js:1
-#: assets/client/admin/components/index.js:2
-#: assets/client/blocks/active-filters-frontend.js:5
-#: assets/client/blocks/active-filters-wrapper-frontend.js:5
-#: assets/client/blocks/active-filters.js:5
-#: assets/client/blocks/attribute-filter.js:18
-#: assets/client/blocks/product-filter-attribute.js:1
-msgid "All"
-msgstr "Tout"
 
 #. translators: Reset button text for filters.
 #: includes/admin/reports/class-wc-report-sales-by-product.php:210
@@ -38140,7 +38131,7 @@ msgid "General options"
 msgstr "Options générales"
 
 #: includes/admin/class-wc-admin-customize.php:77
-#: includes/admin/class-wc-admin-menus.php:421
+#: includes/admin/class-wc-admin-menus.php:420
 #: includes/admin/settings/class-wc-settings-advanced.php:307
 #: includes/class-wc-query.php:158
 msgid "Lost password"
@@ -38327,7 +38318,7 @@ msgstr "Téléchargements restants"
 #: includes/admin/settings/views/html-admin-page-shipping-classes.php:114
 #: includes/admin/settings/views/html-admin-page-shipping-zone-methods.php:166
 #: templates/myaccount/form-reset-password.php:45
-#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/2791.js:1
 #: assets/client/admin/product-editor/index.js:2
 #: assets/client/admin/wp-admin-scripts/beta-features-tracking-modal.js:1
 msgid "Save"
@@ -38682,7 +38673,7 @@ msgstr "Classe de taxe."
 #: includes/admin/reports/class-wc-report-taxes-by-code.php:198
 #: includes/admin/settings/class-wc-settings-tax.php:27
 #: includes/class-wc-countries.php:491 includes/class-wc-order-item-tax.php:170
-#: includes/class-wc-tax.php:977 assets/client/admin/chunks/9001.js:1
+#: includes/class-wc-tax.php:977 assets/client/admin/chunks/2791.js:1
 msgid "Tax"
 msgstr "TVA"
 
@@ -38720,6 +38711,15 @@ msgstr "Ceci est la somme des montants taxe de livraison « Lignes de taxe » 
 msgid "To edit this order change the status back to \"Pending payment\""
 msgstr "Pour modifier cette commande, revenez à l’état « En attente »"
 
+#: includes/admin/meta-boxes/views/html-product-data-attributes.php:32
+#: includes/admin/meta-boxes/views/html-product-data-attributes.php:59
+#: includes/admin/meta-boxes/views/html-product-data-variations.php:122
+#: includes/admin/meta-boxes/views/html-product-data-variations.php:172
+#: assets/client/admin/chunks/multichannel-marketing.js:1
+#: assets/client/admin/components/index.js:2
+msgid "Expand"
+msgstr "Déplier"
+
 #: includes/admin/class-wc-admin-setup-wizard.php:1800
 msgid "Offline Payments"
 msgstr "Paiements hors ligne"
@@ -38732,7 +38732,7 @@ msgstr "Activer le paiement à la livraison"
 msgid "Allow"
 msgstr "Autoriser"
 
-#: includes/admin/class-wc-admin-assets.php:561
+#: includes/admin/class-wc-admin-assets.php:555
 #: src/Internal/Admin/Notes/WooCommerceSubscriptions.php:55
 #: assets/client/admin/chunks/core-profiler.js:1
 msgid "Learn More"
@@ -39249,7 +39249,7 @@ msgstr "Fichiers téléchargeables"
 #: src/Internal/Features/ProductBlockEditor/ProductTemplates/SimpleProductTemplate.php:129
 #: src/Internal/ReceiptRendering/ReceiptRenderingEngine.php:347
 #: templates/cart/cart-totals.php:52 templates/cart/cart-totals.php:53
-#: assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/chunks/2791.js:1
 #: assets/client/admin/chunks/analytics-report-revenue.js:1
 #: assets/client/admin/chunks/dashboard-charts.js:1
 #: assets/client/admin/product-editor/index.js:2 assets/client/blocks/cart.js:2
@@ -39444,9 +39444,9 @@ msgstr "Client :"
 #: includes/admin/settings/class-wc-settings-accounts.php:243
 #: includes/admin/settings/class-wc-settings-accounts.php:252
 #: includes/admin/settings/class-wc-settings-accounts.php:261
-#: includes/admin/settings/class-wc-settings-emails.php:98
-#: includes/admin/settings/class-wc-settings-emails.php:150
-#: includes/admin/settings/class-wc-settings-emails.php:368
+#: includes/admin/settings/class-wc-settings-emails.php:97
+#: includes/admin/settings/class-wc-settings-emails.php:149
+#: includes/admin/settings/class-wc-settings-emails.php:367
 #: includes/admin/settings/views/settings-tax.php:107
 #: includes/emails/class-wc-email-cancelled-order.php:189
 #: includes/emails/class-wc-email-customer-invoice.php:222
@@ -39667,7 +39667,7 @@ msgstr "Produit standard"
 msgid "Remove image"
 msgstr "Retirer l’image"
 
-#: includes/class-wc-install.php:2254
+#: includes/class-wc-install.php:2257
 msgid "Docs"
 msgstr "Docs"
 
@@ -39921,7 +39921,7 @@ msgstr "Usage / Limite"
 #: src/Admin/API/Reports/Stock/Controller.php:495
 #: src/Admin/API/Reports/Variations/Controller.php:381
 #: src/Admin/ReportCSVEmail.php:61 src/Internal/Admin/Analytics.php:253
-#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/2791.js:1
 #: assets/client/admin/chunks/analytics-report-categories.js:1
 #: assets/client/admin/chunks/analytics-report-products.js:1
 #: assets/client/admin/chunks/analytics-report-stock.js:1
@@ -39971,7 +39971,7 @@ msgid "Date"
 msgstr "Date"
 
 #: includes/admin/class-wc-admin-dashboard.php:475
-#: includes/admin/class-wc-admin-menus.php:197
+#: includes/admin/class-wc-admin-menus.php:196
 #: includes/admin/class-wc-admin-webhooks-table-list.php:51
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:125
 #: includes/admin/meta-boxes/views/html-product-data-variations.php:81
@@ -40080,7 +40080,7 @@ msgstr "Basculer en mise en avant"
 
 #. Translators: %s Payment gateway name.
 #: includes/admin/list-tables/class-wc-admin-list-table-products.php:261
-#: includes/admin/settings/class-wc-settings-emails.php:595
+#: includes/admin/settings/class-wc-settings-emails.php:594
 #: includes/admin/settings/class-wc-settings-payment-gateways.php:230
 #: includes/admin/settings/class-wc-settings-shipping.php:343
 #: includes/admin/views/html-bulk-edit-product.php:246
@@ -40214,8 +40214,8 @@ msgstr "Recherche"
 #: src/Internal/ProductDownloads/ApprovedDirectories/Admin/SyncUI.php:81
 #: src/Internal/ProductDownloads/ApprovedDirectories/Admin/UI.php:360
 #: assets/client/admin/app/index.js:2 assets/client/admin/chunks/957.js:1
-#: assets/client/admin/chunks/2727.js:2 assets/client/admin/chunks/6885.js:1
-#: assets/client/admin/chunks/8656.js:1 assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/chunks/2727.js:2 assets/client/admin/chunks/2791.js:1
+#: assets/client/admin/chunks/6885.js:1 assets/client/admin/chunks/8656.js:1
 #: assets/client/admin/chunks/activity-panels-inbox.js:1
 #: assets/client/admin/chunks/customize-store.js:1
 #: assets/client/admin/chunks/launch-store.js:1
@@ -40340,7 +40340,7 @@ msgstr "Les changements effectués seront perdus si vous quittez cette page."
 #: src/Admin/API/Reports/Taxes/Controller.php:235
 #: src/Admin/API/Reports/Variations/Controller.php:376
 #: src/Admin/ReportCSVEmail.php:58 src/Internal/Admin/Analytics.php:217
-#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/app/index.js:2 assets/client/admin/chunks/2791.js:1
 #: assets/client/admin/chunks/analytics-report-categories.js:1
 #: assets/client/admin/chunks/analytics-report-coupons.js:1
 #: assets/client/admin/chunks/analytics-report-customers.js:1
@@ -40355,7 +40355,7 @@ msgid "Orders"
 msgstr "Commandes"
 
 #: includes/abstracts/abstract-wc-settings-api.php:832
-#: includes/admin/class-wc-admin-menus.php:452
+#: includes/admin/class-wc-admin-menus.php:451
 #: includes/admin/class-wc-admin-settings.php:745
 #: includes/admin/meta-boxes/views/html-product-attribute-inner.php:72
 #: assets/client/admin/chunks/2727.js:2
@@ -40372,7 +40372,7 @@ msgstr "Ne rien sélectionner"
 #: includes/class-wc-privacy.php:124
 #: src/Internal/Admin/Settings/PaymentsController.php:71
 #: src/Internal/Admin/WcPayWelcomePage.php:93
-#: assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/chunks/2791.js:1
 msgid "Payments"
 msgstr "Paiements"
 
@@ -40404,13 +40404,13 @@ msgstr "Passer cette étape"
 msgid "Choose a currency&hellip;"
 msgstr "Choisir une devise&hellip;"
 
-#: includes/admin/settings/class-wc-settings-emails.php:163
+#: includes/admin/settings/class-wc-settings-emails.php:162
 #: includes/admin/settings/class-wc-settings-general.php:253
 #: assets/client/blocks/all-products.js:15
 msgid "Left"
 msgstr "Gauche"
 
-#: includes/admin/settings/class-wc-settings-emails.php:165
+#: includes/admin/settings/class-wc-settings-emails.php:164
 #: includes/admin/settings/class-wc-settings-general.php:254
 #: assets/client/blocks/all-products.js:15
 msgid "Right"
@@ -40461,12 +40461,12 @@ msgstr "yd"
 msgid "State"
 msgstr "État"
 
-#: includes/class-wc-install.php:898
+#: includes/class-wc-install.php:901
 msgctxt "Page title"
 msgid "Shop"
 msgstr "Boutique"
 
-#: includes/class-wc-install.php:903
+#: includes/class-wc-install.php:906
 msgctxt "Page title"
 msgid "Cart"
 msgstr "Panier"
@@ -40552,7 +40552,7 @@ msgstr "Séparateur de milliers."
 msgid "Currency position."
 msgstr "Position de la devise."
 
-#: includes/class-wc-install.php:913
+#: includes/class-wc-install.php:916
 msgctxt "Page title"
 msgid "My account"
 msgstr "Mon compte"
@@ -40596,7 +40596,7 @@ msgstr "Produit en brouillon mis à jour. <a target=\"_blank\" href=\"%s\">Prév
 msgid "Product submitted. <a target=\"_blank\" href=\"%s\">Preview product</a>"
 msgstr "Produit soumis. <a target=\"_blank\" href=\"%s\">Prévisualiser le produit</a>"
 
-#: includes/admin/class-wc-admin-assets.php:277
+#: includes/admin/class-wc-admin-assets.php:271
 msgid "Product description"
 msgstr "Description du produit"
 
@@ -40614,7 +40614,7 @@ msgstr "Les réglages de cette taille d’image ont été désactivés parce que
 msgid "Most stocked"
 msgstr "Les plus stockés"
 
-#: includes/class-wc-install.php:908
+#: includes/class-wc-install.php:911
 msgctxt "Page title"
 msgid "Checkout"
 msgstr "Validation de la commande"
@@ -40683,18 +40683,6 @@ msgstr "Étiquette produit"
 msgid "Select a page&hellip;"
 msgstr "Sélectionner une page…"
 
-#: includes/admin/reports/class-wc-report-customer-list.php:217
-#: includes/admin/settings/class-wc-settings-emails.php:558
-#: src/Admin/API/Reports/Customers/Controller.php:545
-#: src/Admin/Features/MarketingRecommendations/DefaultMarketingRecommendations.php:36
-#: src/Internal/Admin/Orders/ListTable.php:1589
-#: src/StoreApi/Schemas/V1/BillingAddressSchema.php:38
-#: templates/single-product-reviews.php:96
-#: assets/client/admin/chunks/analytics-report-customers.js:1
-#: assets/client/blocks/legacy-template.js:7
-msgid "Email"
-msgstr "E-mail "
-
 #: packages/action-scheduler/classes/abstracts/ActionScheduler_Store.php:455
 #: src/Internal/Admin/Orders/ListTable.php:1225
 msgid "Complete"
@@ -40754,6 +40742,18 @@ msgstr "Mettre cet avis à la corbeille"
 #: src/Blocks/Domain/Services/CheckoutFields.php:599
 msgid "State/County"
 msgstr "État/Département"
+
+#: includes/admin/reports/class-wc-report-customer-list.php:217
+#: includes/admin/settings/class-wc-settings-emails.php:557
+#: src/Admin/API/Reports/Customers/Controller.php:545
+#: src/Admin/Features/MarketingRecommendations/DefaultMarketingRecommendations.php:36
+#: src/Internal/Admin/Orders/ListTable.php:1589
+#: src/StoreApi/Schemas/V1/BillingAddressSchema.php:38
+#: templates/single-product-reviews.php:96
+#: assets/client/admin/chunks/analytics-report-customers.js:1
+#: assets/client/blocks/legacy-template.js:7
+msgid "Email"
+msgstr "E-mail"
 
 #: includes/admin/class-wc-admin-api-keys-table-list.php:48
 #: includes/admin/importers/class-wc-product-csv-importer-controller.php:652
@@ -40821,11 +40821,11 @@ msgid "Unknown"
 msgstr "Inconnu"
 
 #. Plugin Name of the plugin
-#: woocommerce.php includes/admin/class-wc-admin-menus.php:100
+#: woocommerce.php includes/admin/class-wc-admin-menus.php:99
 #: includes/admin/class-wc-admin-setup-wizard.php:353
 #: includes/admin/class-wc-admin-setup-wizard.php:446
 #: includes/admin/class-wc-admin.php:248
-#: includes/admin/helper/views/html-oauth-start.php:34
+#: includes/admin/helper/views/html-oauth-start.php:21
 #: includes/class-wc-order.php:2012 includes/class-wc-order.php:2013
 #: includes/class-wc-privacy.php:54
 #: includes/customizer/class-wc-shop-customizer.php:39
@@ -40835,7 +40835,7 @@ msgstr "Inconnu"
 #: src/Admin/PageController.php:202 src/Blocks/BlockTypesController.php:216
 #: src/Blocks/Patterns/PatternRegistry.php:24
 #: src/Internal/Admin/Homescreen.php:182 src/Internal/Admin/Loader.php:410
-#: src/Internal/Admin/Settings.php:212 templates/auth/header.php:48
+#: src/Internal/Admin/Settings.php:209 templates/auth/header.php:35
 #: assets/client/blocks/all-products.js:6 assets/client/blocks/all-reviews.js:7
 #: assets/client/blocks/cart.js:50 assets/client/blocks/classic-shortcode.js:1
 #: assets/client/blocks/legacy-template.js:7
@@ -40848,29 +40848,29 @@ msgstr "Inconnu"
 msgid "WooCommerce"
 msgstr "WooCommerce"
 
-#: includes/admin/class-wc-admin-assets.php:225
+#: includes/admin/class-wc-admin-assets.php:219
 msgid "Please enter in country code with two capital letters."
 msgstr "Veuillez saisir un code pays avec deux lettres majuscules."
 
-#: includes/admin/class-wc-admin-assets.php:226
+#: includes/admin/class-wc-admin-assets.php:220
 msgid "Please enter in a value less than the regular price."
 msgstr "Veuillez saisir une valeur inférieure au tarif normal."
 
-#: includes/admin/class-wc-admin-assets.php:305
+#: includes/admin/class-wc-admin-assets.php:299
 #: assets/client/admin/product-editor/index.js:2
 msgid "Enter a value"
 msgstr "Saisissez une valeur"
 
-#: includes/admin/class-wc-admin-assets.php:306
+#: includes/admin/class-wc-admin-assets.php:300
 msgid "Variation menu order (determines position in the list of variations)"
 msgstr "Ordre du menu variation (détermine la position dans la liste des variations)"
 
-#: includes/admin/class-wc-admin-assets.php:307
+#: includes/admin/class-wc-admin-assets.php:301
 #: assets/client/admin/product-editor/index.js:2
 msgid "Enter a value (fixed or %)"
 msgstr "Saisissez une valeur (fixe ou en %)"
 
-#: includes/admin/class-wc-admin-assets.php:310
+#: includes/admin/class-wc-admin-assets.php:304
 #: includes/admin/class-wc-admin-brands.php:342
 #: includes/admin/class-wc-admin-brands.php:425
 #: includes/admin/class-wc-admin-taxonomies.php:163
@@ -40880,29 +40880,29 @@ msgstr "Saisissez une valeur (fixe ou en %)"
 msgid "Choose an image"
 msgstr "Choisir une image"
 
-#: includes/admin/class-wc-admin-assets.php:311
+#: includes/admin/class-wc-admin-assets.php:305
 msgid "Set variation image"
 msgstr "Définir l’image de la variation"
 
-#: includes/admin/class-wc-admin-assets.php:315
+#: includes/admin/class-wc-admin-assets.php:309
 #: assets/client/admin/product-editor/index.js:2
 msgid "Sale start date (YYYY-MM-DD format or leave blank)"
 msgstr "Date de début de la promotion (format AAAA-MM-JJ ou laisser vide)"
 
-#: includes/admin/class-wc-admin-assets.php:316
+#: includes/admin/class-wc-admin-assets.php:310
 #: assets/client/admin/product-editor/index.js:2
 msgid "Sale end date (YYYY-MM-DD format or leave blank)"
 msgstr "Date de fin de la promotion (format AAAA-MM-JJ ou laisser vide)"
 
-#: includes/admin/class-wc-admin-assets.php:319
+#: includes/admin/class-wc-admin-assets.php:313
 msgid "%qty% variations"
 msgstr "%qty% variations"
 
-#: includes/admin/class-wc-admin-assets.php:384
+#: includes/admin/class-wc-admin-assets.php:378
 msgid "Please select some items."
 msgstr "Veuillez sélectionner quelques articles."
 
-#: includes/admin/class-wc-admin-assets.php:389
+#: includes/admin/class-wc-admin-assets.php:383
 #: includes/admin/class-wc-admin-attributes.php:206
 #: includes/admin/class-wc-admin-attributes.php:273
 #: includes/admin/class-wc-admin-attributes.php:308
@@ -40936,7 +40936,7 @@ msgid "Name"
 msgstr "Nom"
 
 #. translators: Remove chip.
-#: includes/admin/class-wc-admin-assets.php:390
+#: includes/admin/class-wc-admin-assets.php:384
 #: includes/admin/meta-boxes/views/html-product-attribute.php:10
 #: includes/admin/meta-boxes/views/html-variation-admin.php:20
 #: assets/client/admin/app/index.js:2 assets/client/admin/chunks/2727.js:2
@@ -40946,22 +40946,22 @@ msgstr "Nom"
 msgid "Remove"
 msgstr "Supprimer"
 
-#: includes/admin/class-wc-admin-assets.php:392
+#: includes/admin/class-wc-admin-assets.php:386
 #: includes/admin/meta-boxes/views/html-product-attribute-inner.php:28
 msgid "Value(s)"
 msgstr "Valeur(s)"
 
-#: includes/admin/class-wc-admin-assets.php:394
+#: includes/admin/class-wc-admin-assets.php:388
 #: includes/admin/meta-boxes/views/html-product-attribute-inner.php:97
 msgid "Visible on the product page"
 msgstr "Visible sur la page produit"
 
-#: includes/admin/class-wc-admin-assets.php:395
+#: includes/admin/class-wc-admin-assets.php:389
 #: includes/admin/meta-boxes/views/html-product-attribute-inner.php:103
 msgid "Used for variations"
 msgstr "Utilisé pour les variations"
 
-#: includes/admin/class-wc-admin-assets.php:401
+#: includes/admin/class-wc-admin-assets.php:395
 #: includes/admin/class-wc-admin-post-types.php:745
 #: includes/admin/list-tables/class-wc-admin-list-table-products.php:131
 #: includes/admin/views/html-bulk-edit-product.php:240
@@ -40970,7 +40970,7 @@ msgstr "Utilisé pour les variations"
 msgid "Featured"
 msgstr "Mis en avant"
 
-#: includes/admin/class-wc-admin-assets.php:405
+#: includes/admin/class-wc-admin-assets.php:399
 msgid "No customer selected"
 msgstr "Aucun client sélectionné"
 
@@ -41006,7 +41006,7 @@ msgstr "Nom (numérique)"
 msgid "Term ID"
 msgstr "ID terme"
 
-#: includes/admin/class-wc-admin-menus.php:106
+#: includes/admin/class-wc-admin-menus.php:105
 #: includes/admin/importers/class-wc-product-csv-importer-controller.php:874
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:99
 #: includes/admin/views/html-admin-page-product-export.php:41
@@ -41094,7 +41094,7 @@ msgstr "Modifier"
 #: src/Admin/RemoteInboxNotifications/RemoteInboxNotificationsEngine.php:284
 #: src/Internal/Admin/Orders/MetaBoxes/CustomMetaBox.php:392
 #: src/Internal/DataStores/Orders/CustomOrdersTableController.php:298
-#: assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/chunks/2791.js:1
 #: assets/client/admin/chunks/customize-store.js:1
 #: assets/client/admin/experimental/index.js:2
 #: assets/client/admin/product-editor/blocks/product-fields/downloads/edit-downloads-modal/edit-downloads-modal.js:1
@@ -41151,7 +41151,7 @@ msgstr "Dupliquer"
 msgid "Copy to a new draft"
 msgstr "Copier vers un nouveau brouillon"
 
-#: includes/admin/class-wc-admin-menus.php:114
+#: includes/admin/class-wc-admin-menus.php:113
 #: includes/react-admin/connect-existing-pages.php:31
 msgid "Reports"
 msgstr "Rapports"
@@ -41160,7 +41160,7 @@ msgstr "Rapports"
 msgid "Report a bug"
 msgstr "Reporter un bug"
 
-#: includes/admin/class-wc-admin-menus.php:490
+#: includes/admin/class-wc-admin-menus.php:489
 msgid "Visit Store"
 msgstr "Visiter la boutique"
 
@@ -41180,7 +41180,7 @@ msgstr "Votes"
 #: src/Internal/Admin/ProductReviews/Reviews.php:84
 #: src/Internal/Admin/ProductReviews/Reviews.php:85
 #: src/Internal/Admin/ProductReviews/ReviewsListTable.php:1348
-#: templates/single-product-reviews.php:37 assets/client/admin/chunks/9001.js:1
+#: templates/single-product-reviews.php:37 assets/client/admin/chunks/2791.js:1
 #: assets/client/admin/chunks/customize-store.js:1
 msgid "Reviews"
 msgstr "Avis"
@@ -41263,7 +41263,7 @@ msgstr "En stock"
 msgid "Fee"
 msgstr "Frais"
 
-#: includes/admin/class-wc-admin-assets.php:168
+#: includes/admin/class-wc-admin-assets.php:162
 #: includes/class-wc-frontend-scripts.php:611
 #: includes/widgets/class-wc-widget-layered-nav.php:322
 #: includes/widgets/class-wc-widget-product-categories.php:272
@@ -41271,55 +41271,55 @@ msgctxt "enhanced select"
 msgid "No matches found"
 msgstr "Aucun résultat"
 
-#: includes/admin/class-wc-admin-assets.php:169
+#: includes/admin/class-wc-admin-assets.php:163
 #: includes/class-wc-frontend-scripts.php:612
 msgctxt "enhanced select"
 msgid "Loading failed"
 msgstr "Échec du chargement"
 
-#: includes/admin/class-wc-admin-assets.php:170
+#: includes/admin/class-wc-admin-assets.php:164
 #: includes/class-wc-frontend-scripts.php:613
 msgctxt "enhanced select"
 msgid "Please enter 1 or more characters"
 msgstr "Veuillez saisir 1 caractère ou plus"
 
-#: includes/admin/class-wc-admin-assets.php:171
+#: includes/admin/class-wc-admin-assets.php:165
 #: includes/class-wc-frontend-scripts.php:614
 msgctxt "enhanced select"
 msgid "Please enter %qty% or more characters"
 msgstr "Veuillez saisir %qty% caractères ou plus"
 
-#: includes/admin/class-wc-admin-assets.php:172
+#: includes/admin/class-wc-admin-assets.php:166
 #: includes/class-wc-frontend-scripts.php:615
 msgctxt "enhanced select"
 msgid "Please delete 1 character"
 msgstr "Veuillez supprimer 1 caractère"
 
-#: includes/admin/class-wc-admin-assets.php:173
+#: includes/admin/class-wc-admin-assets.php:167
 #: includes/class-wc-frontend-scripts.php:616
 msgctxt "enhanced select"
 msgid "Please delete %qty% characters"
 msgstr "Veuillez supprimer %qty% caractères"
 
-#: includes/admin/class-wc-admin-assets.php:175
+#: includes/admin/class-wc-admin-assets.php:169
 #: includes/class-wc-frontend-scripts.php:618
 msgctxt "enhanced select"
 msgid "You can only select %qty% items"
 msgstr "Vous ne pouvez sélectionner que %qty% articles"
 
-#: includes/admin/class-wc-admin-assets.php:176
+#: includes/admin/class-wc-admin-assets.php:170
 #: includes/class-wc-frontend-scripts.php:619
 msgctxt "enhanced select"
 msgid "Loading more results&hellip;"
 msgstr "Charger plus de résultats&hellip;"
 
-#: includes/admin/class-wc-admin-assets.php:177
+#: includes/admin/class-wc-admin-assets.php:171
 #: includes/class-wc-frontend-scripts.php:620
 msgctxt "enhanced select"
 msgid "Searching&hellip;"
 msgstr "Recherche&hellip;"
 
-#: includes/admin/class-wc-admin-menus.php:270
+#: includes/admin/class-wc-admin-menus.php:269
 #: includes/class-wc-post-types.php:476
 msgctxt "Admin menu name"
 msgid "Orders"
@@ -41491,7 +41491,7 @@ msgstr "Tri par défaut"
 msgid "Custom ordering"
 msgstr "Tri personnalisé"
 
-#: includes/admin/class-wc-admin-assets.php:174
+#: includes/admin/class-wc-admin-assets.php:168
 #: includes/class-wc-frontend-scripts.php:617
 msgctxt "enhanced select"
 msgid "You can only select 1 item"
@@ -41521,14 +41521,14 @@ msgstr "Date d&rsquo;expiration (MM/AA)"
 msgid "Coupons"
 msgstr "Codes promo"
 
-#: includes/admin/class-wc-admin-menus.php:127
+#: includes/admin/class-wc-admin-menus.php:126
 #: includes/admin/views/html-admin-page-status-report.php:693
-#: includes/class-wc-install.php:2206
+#: includes/class-wc-install.php:2209
 #: includes/react-admin/connect-existing-pages.php:35
 #: src/Internal/Admin/Analytics.php:265
 #: src/Internal/Admin/Logging/PageController.php:212
 #: assets/client/admin/app/index.js:2 assets/client/admin/chunks/833.js:2
-#: assets/client/admin/chunks/8656.js:1 assets/client/admin/chunks/9001.js:1
+#: assets/client/admin/chunks/2791.js:1 assets/client/admin/chunks/8656.js:1
 #: assets/client/admin/chunks/customize-store.js:1
 #: assets/client/admin/product-editor/index.js:2
 #: assets/client/admin/settings-editor/index.js:2
@@ -41571,7 +41571,7 @@ msgstr "Lire la suite"
 msgid "Out of stock"
 msgstr "Rupture de stock"
 
-#: includes/admin/class-wc-admin-assets.php:393
+#: includes/admin/class-wc-admin-assets.php:387
 msgid "Enter some text, or some attributes by pipe (|) separating values."
 msgstr "Saisissez du texte, ou des attributs en les séparant avec un pipe (|)."
 
@@ -41616,19 +41616,19 @@ msgstr "Données produit"
 msgid "Product short description"
 msgstr "Description courte du produit"
 
-#: includes/admin/class-wc-admin-menus.php:456
+#: includes/admin/class-wc-admin-menus.php:455
 msgid "Add to menu"
 msgstr "Ajouter au menu"
 
-#: includes/admin/class-wc-admin-menus.php:405
+#: includes/admin/class-wc-admin-menus.php:404
 msgid "WooCommerce endpoints"
 msgstr "Terminaisons WooCommerce"
 
-#: includes/admin/class-wc-admin-menus.php:126
+#: includes/admin/class-wc-admin-menus.php:125
 msgid "WooCommerce settings"
 msgstr "Réglages WooCommerce"
 
-#: includes/admin/class-wc-admin-menus.php:116
+#: includes/admin/class-wc-admin-menus.php:115
 msgid "Sales reports"
 msgstr "Rapports des ventes"
 
@@ -41662,7 +41662,7 @@ msgstr "Livraison locale"
 msgid "%1$s top seller this month (sold %2$d)"
 msgstr "%1$s meilleure vente du mois (%2$d vendus)"
 
-#: includes/admin/class-wc-admin-menus.php:197
+#: includes/admin/class-wc-admin-menus.php:196
 msgid "WooCommerce status"
 msgstr "État de WooCommerce"
 
@@ -41786,17 +41786,17 @@ msgstr "Activer les archives ?"
 msgid "Enable this if you want this attribute to have product archives in your store."
 msgstr "Activer si vous souhaitez que cet attribut dispose d’archives dans votre boutique."
 
-#: includes/admin/class-wc-admin-assets.php:391
+#: includes/admin/class-wc-admin-assets.php:385
 #: includes/admin/meta-boxes/views/html-order-download-permission.php:9
 #: includes/admin/meta-boxes/views/html-product-attribute.php:8
 msgid "Click to toggle"
 msgstr "Cliquer pour permuter"
 
-#: includes/admin/class-wc-admin-assets.php:396
+#: includes/admin/class-wc-admin-assets.php:390
 msgid "Enter a name for the new attribute term:"
 msgstr "Saisissez un nom pour le nouvel attribut du terme :"
 
-#: includes/admin/class-wc-admin-assets.php:314
+#: includes/admin/class-wc-admin-assets.php:308
 msgid "Are you sure you want to remove this variation?"
 msgstr "Confirmez-vous la suppression de cette variation ?"
 
@@ -41889,8 +41889,8 @@ msgstr "Cap-Nord"
 msgid "Single Product"
 msgstr "Un seul produit"
 
-#: includes/admin/class-wc-admin-assets.php:335
-#: includes/admin/class-wc-admin-assets.php:536
+#: includes/admin/class-wc-admin-assets.php:329
+#: includes/admin/class-wc-admin-assets.php:530
 #: includes/admin/settings/views/html-webhooks-edit.php:68
 #: includes/class-wc-frontend-scripts.php:610
 #: includes/wc-template-functions.php:3103
@@ -41912,7 +41912,7 @@ msgstr "Identifiant/Référence unique pour l’attribut, doit avoir au plus 28 
 msgid "Attribute updated successfully"
 msgstr "L’attribut a bien été mis à jour"
 
-#: includes/admin/class-wc-admin-notices.php:267
+#: includes/admin/class-wc-admin-notices.php:266
 #: includes/admin/class-wc-admin-status.php:305
 #: includes/emails/class-wc-email.php:1013
 #: src/Internal/Features/FeaturesController.php:1436
@@ -41945,11 +41945,11 @@ msgstr "Réglages de livraison"
 msgid "Free Shipping"
 msgstr "Expédition gratuite"
 
-#: includes/admin/class-wc-admin-assets.php:430
+#: includes/admin/class-wc-admin-assets.php:424
 msgid "Could not grant access - the user may already have permission for this file or billing email is not set. Ensure the billing email is set, and the order has been saved."
 msgstr "Impossible d’accorder l’accès - l’utilisateur peut déjà avoir la permission pour ce fichier ou l’e-mail de facturation n’est pas défini. Assurez-vous que l’e-mail de facturation est défini, et que la commande a été sauvegardée."
 
-#: includes/admin/class-wc-admin-assets.php:398
+#: includes/admin/class-wc-admin-assets.php:392
 msgid "Copy billing information to shipping information? This will remove any currently entered shipping information."
 msgstr "Copier les informations de facturation vers les informations d’expédition ? Ceci retirera tout ce qui a été saisi dans les informations d’expédition."
 
@@ -41961,11 +41961,11 @@ msgstr "WooCommerce taux de taxe (CSV)"
 msgid "Import <strong>tax rates</strong> to your store via a csv file."
 msgstr "Importez <strong>les taux de taxe</strong> dans votre boutique via un fichier csv."
 
-#: includes/admin/class-wc-admin-assets.php:432
+#: includes/admin/class-wc-admin-assets.php:426
 msgid "You cannot add the same tax rate twice!"
 msgstr "Vous ne pouvez pas ajouter deux fois le même taux de taxe !"
 
-#: includes/admin/class-wc-admin-assets.php:387
+#: includes/admin/class-wc-admin-assets.php:381
 msgid "Are you sure you wish to delete this tax column? This action cannot be undone."
 msgstr "Êtes-vous sur de vouloir supprimer cette colonne de taxe ? Cette action est irréversible."
 
@@ -41973,31 +41973,31 @@ msgstr "Êtes-vous sur de vouloir supprimer cette colonne de taxe ? Cette actio
 msgid "API key"
 msgstr "Clé de l’API"
 
-#: includes/admin/class-wc-admin-assets.php:308
+#: includes/admin/class-wc-admin-assets.php:302
 msgid "Are you sure you want to delete all variations? This cannot be undone."
 msgstr "Êtes-vous sur de vouloir supprimer tous les attributs&nbsp;? Cette action est irréversible."
 
-#: includes/admin/class-wc-admin-assets.php:309
+#: includes/admin/class-wc-admin-assets.php:303
 msgid "Last warning, are you sure?"
 msgstr "Dernier avertissement, êtes-vous certain(e)&nbsp;?"
 
-#: includes/admin/class-wc-admin-assets.php:317
+#: includes/admin/class-wc-admin-assets.php:311
 msgid "Save changes before changing page?"
 msgstr "Sauvegarder les changements avant de changer de page&nbsp;?"
 
-#: includes/admin/class-wc-admin-assets.php:385
+#: includes/admin/class-wc-admin-assets.php:379
 msgid "Are you sure you wish to process this refund? This action cannot be undone."
 msgstr "Êtes-vous sûr de vouloir procéder à ce remboursement&nbsp;? Cette action est irréversible."
 
-#: includes/admin/class-wc-admin-assets.php:386
+#: includes/admin/class-wc-admin-assets.php:380
 msgid "Are you sure you wish to delete this refund? This action cannot be undone."
 msgstr "Êtes-vous sûr de vouloir supprimer ce remboursement&nbsp;? Cette action est irréversible."
 
-#: includes/admin/class-wc-admin-assets.php:388
+#: includes/admin/class-wc-admin-assets.php:382
 msgid "Remove this item meta?"
 msgstr "Supprimer le méta de cet article&nbsp;?"
 
-#: includes/admin/class-wc-admin-assets.php:431
+#: includes/admin/class-wc-admin-assets.php:425
 msgid "Are you sure you want to revoke access to this download?"
 msgstr "Êtes-vous certain de vouloir supprimer l&rsquo;accès à ce téléchargement&nbsp;?"
 
@@ -42012,7 +42012,7 @@ msgstr "L&rsquo;identifiant &laquo;&nbsp;%s&nbsp;&raquo; est trop long (28 carac
 msgid "There are no product reviews yet."
 msgstr "Il n&rsquo;y a pas encore d&rsquo;avis produit."
 
-#: includes/admin/class-wc-admin-assets.php:400
+#: includes/admin/class-wc-admin-assets.php:394
 msgid "Load the customer's shipping information? This will remove any currently entered shipping information."
 msgstr "Charger les informations de livraison du client ? Ceci supprimera toutes les informations de livraison actuellement saisies."
 
@@ -42022,20 +42022,20 @@ msgstr "Charger les informations de livraison du client ? Ceci supprimera toute
 msgid "If you find a bug within WooCommerce core you can create a ticket via <a href=\"%1$s\">GitHub issues</a>. Ensure you read the <a href=\"%2$s\">contribution guide</a> prior to submitting your report. To help us solve your issue, please be as descriptive as possible and include your <a href=\"%3$s\">system status report</a>."
 msgstr "Si vous trouvez un bogue dans le noyau WooCommerce, vous pouvez créer un ticket sur <a href=\"%1$s\">GitHub</a>. Assurez-vous de lire le <a href=\"%2$s\">guide de contribution</a> avant de soumettre votre compte rendu. Pour nous aider à résoudre votre problème, veuillez être le plus descriptif possible et inclure votre <a href=\"%3$s\">rapport système</a>."
 
-#: includes/admin/class-wc-admin-assets.php:399
+#: includes/admin/class-wc-admin-assets.php:393
 msgid "Load the customer's billing information? This will remove any currently entered billing information."
 msgstr "Charger les informations de facturation du client ? Ceci supprimera toutes les informations de facturation actuellement saisies."
 
-#: includes/admin/class-wc-admin-assets.php:312
+#: includes/admin/class-wc-admin-assets.php:306
 msgid "1 variation added"
 msgstr "1 variation ajoutée"
 
 #. translators: %d: Number of variations
-#: includes/admin/class-wc-admin-assets.php:304
+#: includes/admin/class-wc-admin-assets.php:298
 msgid "Do you want to generate all variations? This will create a new variation for each and every possible combination of variation attributes (max %d per run)."
 msgstr "Voulez-vous générer toutes les variations ? Cette opération créera une nouvelle variation pour chaque combinaison possible d’attributs (%d max. par exécution)."
 
-#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:363
+#: src/Internal/Admin/RemoteFreeExtensions/DefaultFreeExtensions.php:360
 #: assets/client/admin/app/index.js:2
 msgid "WooCommerce Tax"
 msgstr "WooCommerce Tax"
@@ -42045,7 +42045,7 @@ msgid "GitHub project"
 msgstr "Projet GitHub"
 
 #. translators: %s: price decimal separator
-#: includes/admin/class-wc-admin-assets.php:224
+#: includes/admin/class-wc-admin-assets.php:218
 msgid "Please enter a value with one monetary decimal point (%s) without thousand separators and currency symbols."
 msgstr "Veuillez saisir avec une valeur avec un séparateur de décimal monétaire (%s) sans séparateur de milliers et sans symbole monétaire."
 

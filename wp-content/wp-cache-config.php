@@ -5,10 +5,11 @@ WP-Cache Config Sample File
 See wp-cache.php for author details.
 */
 
-$wp_cache_debug_username = '7f0b56d4e4c9d86bb411e24950aeb4c0';
+$wp_cache_debug_username = 'ad750bfcf607b390f28e826061c5c65a';
+$dismiss_readable_warning = 1;
 $wp_cache_home_path = '/';
 $wp_cache_slash_check = 1;
-$cache_page_secret = '71995617f18a27a1f16c32339a7e33c5';
+$cache_page_secret = '507ab5b5809accefa4f4dd09bc9716fe';
 $cache_time_interval = 600;
 if ( ! defined('WPCACHEHOME') )
 	define( 'WPCACHEHOME', WP_CONTENT_DIR . "/plugins/wp-super-cache/" );
@@ -65,7 +66,7 @@ $wp_cache_debug_to_file = 0;
 $wp_super_cache_debug = 0;
 $wp_cache_debug_level = 5;
 $wp_cache_debug_ip = '';
-$wp_cache_debug_log = '21bc1afd3332b2d14847298624dfa693.php';
+$wp_cache_debug_log = 'a9f8282a10f440078ef772dd11f41903.php';
 $wp_cache_debug_email = '';
 $wp_cache_pages[ "search" ] = 0;
 $wp_cache_pages[ "feed" ] = 0;
@@ -100,7 +101,7 @@ $wp_cache_preload_taxonomies = 0;
 $wp_cache_preload_email_me = 0;
 $wp_cache_preload_email_volume = 'none';
 $wp_cache_mobile_prefixes = '';
-$cached_direct_pages = array();
+$cached_direct_pages = array(  );
 $wpsc_served_header = false;
 $cache_gc_email_me = 0;
 $wpsc_save_headers = 0;

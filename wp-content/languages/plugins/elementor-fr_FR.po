@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Elementor Website Builder &#8211; More Than Just a Page Builder - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-01-26 11:23:19+0000\n"
+"PO-Revision-Date: 2025-02-06 15:39:31+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1828,7 +1828,7 @@ msgstr "Onglets. Ouvrez des éléments avec Entrer ou Espace, fermez-les avec Ec
 #. translators: %s: Post type (e.g. Page, Post, etc.)
 #: core/document-types/page-base.php:186
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.js:2
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:17
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:13
 msgid "View %s"
 msgstr "Voir %s"
 
@@ -1969,11 +1969,11 @@ msgstr "Vous modifiez actuellement un widget Bascule dans son ancienne version. 
 msgid "Fit to Size"
 msgstr "Ajuster à la taille"
 
-#: includes/frontend.php:1415
+#: includes/frontend.php:1421
 msgid "Next slide"
 msgstr "Diapositive suivante"
 
-#: includes/frontend.php:1414
+#: includes/frontend.php:1420
 msgid "Previous slide"
 msgstr "Diapositive précédente"
 
@@ -1985,15 +1985,15 @@ msgstr "Redimensionner le navigateur"
 msgid "Resize structure"
 msgstr "Redimensionner la structure"
 
-#: includes/frontend.php:1418
+#: includes/frontend.php:1424
 msgid "Go to slide"
 msgstr "Aller à la diapositive"
 
-#: includes/frontend.php:1417
+#: includes/frontend.php:1423
 msgid "This is the last slide"
 msgstr "Ceci est la dernière diapositive"
 
-#: includes/frontend.php:1416
+#: includes/frontend.php:1422
 msgid "This is the first slide"
 msgstr "Ceci est la première diapositive"
 
@@ -3814,7 +3814,7 @@ msgstr "Tailles de favicon suggérées : 512 × 512 pixels."
 msgid "Choose description"
 msgstr "Choisir une description"
 
-#: includes/frontend.php:1405
+#: includes/frontend.php:1411
 msgid "Download"
 msgstr "Télécharger"
 
@@ -3946,19 +3946,19 @@ msgstr "Brouillon"
 msgid "Kit"
 msgstr "Kit"
 
-#: includes/frontend.php:1406
+#: includes/frontend.php:1412
 msgid "Download image"
 msgstr "Télécharger une image"
 
-#: includes/frontend.php:1404
+#: includes/frontend.php:1410
 msgid "Pin it"
 msgstr "L’épingler"
 
-#: includes/frontend.php:1403
+#: includes/frontend.php:1409
 msgid "Share on Twitter"
 msgstr "Partager sur Twitter"
 
-#: includes/frontend.php:1402
+#: includes/frontend.php:1408
 msgid "Share on Facebook"
 msgstr "Partager sur Facebook"
 
@@ -4014,11 +4014,11 @@ msgstr "Taille des icônes de la barre d’outils"
 msgid "Alt"
 msgstr "Alt"
 
-#: core/kits/documents/tabs/settings-lightbox.php:86 includes/frontend.php:1409
+#: core/kits/documents/tabs/settings-lightbox.php:86 includes/frontend.php:1415
 msgid "Share"
 msgstr "Partager"
 
-#: core/kits/documents/tabs/settings-lightbox.php:66 includes/frontend.php:1407
+#: core/kits/documents/tabs/settings-lightbox.php:66 includes/frontend.php:1413
 msgid "Fullscreen"
 msgstr "Plein écran"
 
@@ -4145,7 +4145,7 @@ msgstr "Montant"
 msgid "Add Element"
 msgstr "Ajouter un élément"
 
-#: includes/frontend.php:1412 assets/js/app.js:7115 assets/js/app.js:8795
+#: includes/frontend.php:1418 assets/js/app.js:7115 assets/js/app.js:8795
 #: assets/js/app.js:9738
 #: assets/js/onboarding.120a44527e5a7209a8e4.bundle.js:1676
 #: assets/js/onboarding.120a44527e5a7209a8e4.bundle.js:1727
@@ -4154,7 +4154,7 @@ msgstr "Ajouter un élément"
 msgid "Next"
 msgstr "Suivant"
 
-#: includes/frontend.php:1411 assets/js/app.js:7988 assets/js/app.js:8782
+#: includes/frontend.php:1417 assets/js/app.js:7988 assets/js/app.js:8782
 #: assets/js/app.js:9731
 msgid "Previous"
 msgstr "Précédent"
@@ -4540,7 +4540,7 @@ msgid "Note: The ID link ONLY accepts these chars: %s"
 msgstr "Note : le lien d’ID accepte uniquement les caractères suivants : %s"
 
 #. translators: %s: Current post name.
-#: includes/frontend.php:1547
+#: includes/frontend.php:1553
 msgid "Continue reading %s"
 msgstr "Poursuivre la lecture %s"
 
@@ -4628,7 +4628,7 @@ msgstr "Vous avez toujours des problèmes ?"
 msgid "Editor successfully loaded?"
 msgstr "Éditeur bien chargé ?"
 
-#: includes/frontend.php:1540
+#: includes/frontend.php:1546
 msgid "(more&hellip;)"
 msgstr "(plus…)"
 
@@ -4793,7 +4793,7 @@ msgstr "Tableau de bord"
 
 #: core/common/modules/finder/categories/site.php:46
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.js:2
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:12
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:26
 msgid "Homepage"
 msgstr "Page d’accueil"
 
@@ -4963,7 +4963,7 @@ msgstr "Saisissez votre URL"
 msgid "Paste URL or type"
 msgstr "Collez ou saisissez votre URL"
 
-#: core/kits/documents/tabs/settings-lightbox.php:76 includes/frontend.php:1408
+#: core/kits/documents/tabs/settings-lightbox.php:76 includes/frontend.php:1414
 #: includes/widgets/google-maps.php:174 assets/js/ai-admin.js:10095
 #: assets/js/ai-admin.js:10098 assets/js/ai-gutenberg.js:11943
 #: assets/js/ai-gutenberg.js:11946 assets/js/ai-media-library.js:11724
@@ -5189,7 +5189,7 @@ msgstr "Modèle de page"
 msgid "This template includes the header, full-width content and footer"
 msgstr "Ce modèle inclut les entête, contenu pleine largeur et pied de page"
 
-#: includes/frontend.php:1410 includes/widgets/video.php:1000
+#: includes/frontend.php:1416 includes/widgets/video.php:1000
 msgid "Play Video"
 msgstr "Lire la vidéo"
 
@@ -5496,11 +5496,26 @@ msgstr "Nouveauté"
 msgid "Import Template"
 msgstr "Importer un modèle"
 
+#: core/kits/views/panel.php:40 includes/controls/icons.php:83
+#: includes/controls/icons.php:85 includes/controls/media.php:215
+#: includes/controls/media.php:217 includes/controls/media.php:294
+#: includes/controls/media.php:296 includes/editor-templates/repeater.php:23
+#: modules/promotions/widgets/pro-widget-promotion.php:74
+#: assets/js/ai-admin.js:2208 assets/js/ai-admin.js:7345
+#: assets/js/ai-gutenberg.js:3976 assets/js/ai-gutenberg.js:9193
+#: assets/js/ai-layout.js:2956 assets/js/ai-media-library.js:3837
+#: assets/js/ai-media-library.js:8974 assets/js/ai-unify-product-images.js:3837
+#: assets/js/ai-unify-product-images.js:8974 assets/js/ai.js:4616
+#: assets/js/ai.js:10421
+#: assets/js/kit-library.b0f0ab89c95fe1f6fde3.bundle.js:919
+msgid "Remove"
+msgstr "Retirer"
+
 #: includes/editor-templates/hotkeys.php:73
 #: includes/editor-templates/repeater.php:18 assets/js/editor.js:29977
 #: assets/js/editor.js:50587
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.js:2
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:20
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:16
 msgid "Duplicate"
 msgstr "Dupliquer"
 
@@ -5539,21 +5554,6 @@ msgstr "Enregistrer les options"
 #: assets/js/packages/editor-app-bar/editor-app-bar.strings.js:28
 msgid "Publish"
 msgstr "Publier"
-
-#: core/kits/views/panel.php:40 includes/controls/icons.php:83
-#: includes/controls/icons.php:85 includes/controls/media.php:215
-#: includes/controls/media.php:217 includes/controls/media.php:294
-#: includes/controls/media.php:296 includes/editor-templates/repeater.php:23
-#: modules/promotions/widgets/pro-widget-promotion.php:74
-#: assets/js/ai-admin.js:2208 assets/js/ai-admin.js:7345
-#: assets/js/ai-gutenberg.js:3976 assets/js/ai-gutenberg.js:9193
-#: assets/js/ai-layout.js:2956 assets/js/ai-media-library.js:3837
-#: assets/js/ai-media-library.js:8974 assets/js/ai-unify-product-images.js:3837
-#: assets/js/ai-unify-product-images.js:8974 assets/js/ai.js:4616
-#: assets/js/ai.js:10421
-#: assets/js/kit-library.b0f0ab89c95fe1f6fde3.bundle.js:919
-msgid "Remove"
-msgstr "Retirer"
 
 #: includes/editor-templates/panel.php:102
 #: assets/js/packages/editor-app-bar/editor-app-bar.js:2
@@ -5851,6 +5851,25 @@ msgstr "Ajouter nofollow"
 msgid "Open in new window"
 msgstr "Ouvrir dans une nouvelle fenêtre"
 
+#: includes/controls/groups/box-shadow.php:72
+msgctxt "Box Shadow Control"
+msgid "Outline"
+msgstr "Contour"
+
+#. Translators: %s: Element Name.
+#. Translators: %s: Element name.
+#. translators: %s: Element type title.
+#: core/document-types/page-base.php:184
+#: assets/js/atomic-widgets-editor.js:1601 assets/js/editor.js:29778
+#: assets/js/editor.js:29964 assets/js/editor.js:32229
+#: assets/js/editor.js:32695 assets/js/editor.js:32796
+#: assets/js/editor.js:33122 assets/js/editor.js:36435
+#: assets/js/editor.js:47318
+#: assets/js/packages/editor-editing-panel/editor-editing-panel.js:8
+#: assets/js/packages/editor-editing-panel/editor-editing-panel.strings.js:11
+msgid "Edit %s"
+msgstr "Modifier %s"
+
 #: core/kits/documents/tabs/theme-style-form-fields.php:137
 #: core/kits/documents/tabs/theme-style-images.php:203
 #: includes/base/element-base.php:1253
@@ -5871,25 +5890,6 @@ msgstr "Ouvrir dans une nouvelle fenêtre"
 #: modules/shapes/widgets/text-path.php:643
 msgid "Transition Duration"
 msgstr "Durée de transition"
-
-#: includes/controls/groups/box-shadow.php:72
-msgctxt "Box Shadow Control"
-msgid "Outline"
-msgstr "Contour"
-
-#. Translators: %s: Element Name.
-#. Translators: %s: Element name.
-#. translators: %s: Element type title.
-#: core/document-types/page-base.php:184
-#: assets/js/atomic-widgets-editor.js:1601 assets/js/editor.js:29778
-#: assets/js/editor.js:29964 assets/js/editor.js:32229
-#: assets/js/editor.js:32695 assets/js/editor.js:32796
-#: assets/js/editor.js:33122 assets/js/editor.js:36435
-#: assets/js/editor.js:47318
-#: assets/js/packages/editor-editing-panel/editor-editing-panel.js:8
-#: assets/js/packages/editor-editing-panel/editor-editing-panel.strings.js:11
-msgid "Edit %s"
-msgstr "Modifier %s"
 
 #: includes/controls/url.php:103
 msgid "Link Options"
@@ -6197,6 +6197,16 @@ msgstr "Ligne diagonale"
 msgid "Navigation Width"
 msgstr "Largeur de navigation"
 
+#: includes/elements/column.php:812 includes/elements/container.php:1767
+#: includes/elements/section.php:1285 includes/widgets/common-base.php:683
+#: includes/widgets/traits/button-trait.php:214
+#: modules/floating-buttons/base/widget-contact-button-base.php:3100
+#: modules/floating-buttons/base/widget-floating-bars-base.php:1505
+#: modules/nested-accordion/widgets/nested-accordion.php:138
+#: modules/nested-tabs/widgets/nested-tabs.php:160
+msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
+msgstr "Ajouter votre id personnalisé sans la touche carré. par exemple : mon-id"
+
 #: core/kits/documents/tabs/theme-style-buttons.php:166
 #: core/kits/documents/tabs/theme-style-images.php:134
 #: core/kits/documents/tabs/theme-style-typography.php:149
@@ -6226,16 +6236,6 @@ msgstr "Largeur de navigation"
 #: modules/shapes/widgets/text-path.php:577
 msgid "Hover"
 msgstr "Au survol"
-
-#: includes/elements/column.php:812 includes/elements/container.php:1767
-#: includes/elements/section.php:1285 includes/widgets/common-base.php:683
-#: includes/widgets/traits/button-trait.php:214
-#: modules/floating-buttons/base/widget-contact-button-base.php:3100
-#: modules/floating-buttons/base/widget-floating-bars-base.php:1505
-#: modules/nested-accordion/widgets/nested-accordion.php:138
-#: modules/nested-tabs/widgets/nested-tabs.php:160
-msgid "Add your custom id WITHOUT the Pound key. e.g: my-id"
-msgstr "Ajouter votre id personnalisé sans la touche carré. par exemple : mon-id"
 
 #: includes/elements/column.php:803 includes/elements/container.php:1758
 #: includes/elements/section.php:1276 includes/widgets/common-base.php:674
@@ -6344,13 +6344,6 @@ msgstr "Nous recommandons de définir la mémoire à au moins %1$s. (%2$s ou plu
 msgid "Thousand Separator"
 msgstr "Séparateur de milliers"
 
-#: modules/promotions/widgets/pro-widget-promotion.php:75
-#: assets/js/ai-admin.js:7789 assets/js/ai-gutenberg.js:9637
-#: assets/js/ai-layout.js:3400 assets/js/ai-media-library.js:9418
-#: assets/js/ai-unify-product-images.js:9418 assets/js/ai.js:10865
-msgid "Go Pro"
-msgstr "Passer à la version Pro"
-
 #: includes/editor-templates/panel-elements.php:28
 msgid "Get more with Elementor Pro"
 msgstr "Obtenez plus avec Elementor Pro"
@@ -6390,6 +6383,13 @@ msgstr "Actif"
 msgid "Off"
 msgstr "Inactif"
 
+#: modules/promotions/widgets/pro-widget-promotion.php:75
+#: assets/js/ai-admin.js:7789 assets/js/ai-gutenberg.js:9637
+#: assets/js/ai-layout.js:3400 assets/js/ai-media-library.js:9418
+#: assets/js/ai-unify-product-images.js:9418 assets/js/ai.js:10865
+msgid "Go Pro"
+msgstr "Passer en version pro"
+
 #: includes/settings/settings.php:298
 msgid "Improve Elementor"
 msgstr "Améliorer Elementor"
@@ -6406,7 +6406,7 @@ msgstr "Très grand"
 msgid "Skin"
 msgstr "Habillage"
 
-#: includes/frontend.php:1253
+#: includes/frontend.php:1259
 msgid "Invalid Data: The Template ID cannot be the same as the currently edited template. Please choose a different one."
 msgstr "Données invalides : l’ID du modèle ne peut pas être le même que le modèle en cours de modification. Veuillez en choisir un autre."
 
@@ -6468,7 +6468,7 @@ msgid "Add Template"
 msgstr "Ajouter un modèle"
 
 #: core/base/document.php:170 includes/editor-templates/global.php:21
-#: includes/editor-templates/responsive-bar.php:65 includes/frontend.php:1413
+#: includes/editor-templates/responsive-bar.php:65 includes/frontend.php:1419
 #: assets/js/ai-admin.js:485 assets/js/ai-gutenberg.js:2253
 #: assets/js/ai-layout.js:415 assets/js/ai-media-library.js:2114
 #: assets/js/ai-unify-product-images.js:2114 assets/js/ai.js:2893
@@ -7670,8 +7670,8 @@ msgstr "Large"
 #: assets/js/editor.js:27617 assets/js/editor.js:30069
 #: assets/js/editor.js:46992 assets/js/import-export-admin.js:272
 #: assets/js/packages/editor-site-navigation/editor-site-navigation.js:2
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:21
-#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:29
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:17
+#: assets/js/packages/editor-site-navigation/editor-site-navigation.strings.js:25
 msgid "Delete"
 msgstr "Effacer"
 
@@ -8800,6 +8800,10 @@ msgstr "Copier & coller les informations"
 msgid "General Settings"
 msgstr "Réglages généraux"
 
+#: includes/widgets/video.php:975
+msgid "Content Position"
+msgstr "Position du contenu"
+
 #: core/settings/editor-preferences/model.php:187
 #: includes/base/element-base.php:1388
 #: includes/controls/groups/grid-container.php:34
@@ -8861,10 +8865,6 @@ msgstr "Afficher"
 #: assets/js/packages/editor-editing-panel/editor-editing-panel.strings.js:143
 msgid "Border Color"
 msgstr "Couleur de bordure"
-
-#: includes/widgets/video.php:975
-msgid "Content Position"
-msgstr "Position du contenu"
 
 #: includes/elements/section.php:401
 msgid "Column Position"
